@@ -5,11 +5,9 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 [My SEU website](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm)
 
 ## Contact
-School of Automation, Southeast University
-
-No.2 Sipailou, Nanjing, China, 210096
-
-Email: kqian@seu.edu.cn
+School of Automation, Southeast University  
+No.2 Sipailou, Nanjing, China, 210096  
+Email: kqian@seu.edu.cn  
 
 ----
 
