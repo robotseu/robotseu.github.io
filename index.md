@@ -97,29 +97,36 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 [39]***Kun Qian***, Xudong Ma, Xianzhong Dai. Simultaneous Robot Localization and Person Tracking Using Rao-Blackwellised Particle Filters With Multi-modal Sensors. 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS’08), Nice, France, Sept. 2008, pp.3452-3457.
 
 ## Students
-Zhewen Ma
-Wei Zhao
-Jiale Ma
-Huan Liu
-Xiaobo Zhang
-Kai Li
-Boxing Gui
-Yanhui Duan
-Shenghao Chen
-Rui Liu
-Xingshuo Jing
+Zhewen Ma,
+Wei Zhao,
+Jiale Ma,
+Huan Liu,
+Xiaobo Zhang,
+Kai Li,
+Boxing Gui,
+Yanhui Duan,
+Shenghao Chen,
+Rui Liu,
+Xingshuo Jing,
 Xin Xu
 
 ----
 
 
 ## Alumni
-Jing Xia
-Jun Xu
-Ge Gao
-Zifei Sun
-Zhangjie Fu
-Hong Yang
+Jing Xia,
+Jun Xu,
+Ge Gao,
+Yuan Chen,
+Zhijie Chen,
+Zifei Sun,
+Xiaohua Jiang,
+Min Zhao,
+Hang Wu,
+Zhangjun Lu,
+Zhangjie Fu,
+Hong Yang,
+Huan Wang
 
 ----
 
