@@ -4,14 +4,10 @@
 Kun Qian received his Ph.D degree in control theory and control engineering from Southeast University in 2010. He is currently working as an associate professor at School of Automation, Southeast University. His research interests are robot vision and learning.
 [My SEU website](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm)
 
-## Contact
-School of Automation, Southeast University  
-No.2 Sipailou, Nanjing, China, 210096  
-Email: kqian@seu.edu.cn  
 
-----
 
 ## News
++ A paper was accepted by Advanced Robotics (RSJ Journal)
 
 ----
 
@@ -99,3 +95,10 @@ Email: kqian@seu.edu.cn
 [38]***Kun Qian***, Xudong Ma, Xianzhong Dai and Chunhua Hu. A Multi-camera Approach to Tracking and Localization of People with Coexisting Robots. The 7th World Congress on Intelligent Control and Automation(WCICA’ 08), Chongqing, China, June 2008, 5162-5167.
 
 [39]***Kun Qian***, Xudong Ma, Xianzhong Dai. Simultaneous Robot Localization and Person Tracking Using Rao-Blackwellised Particle Filters With Multi-modal Sensors. 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS’08), Nice, France, Sept. 2008, pp.3452-3457.
+
+## Contact
+School of Automation, Southeast University  
+No.2 Sipailou, Nanjing, China, 210096  
+Email: kqian@seu.edu.cn  
+
+----
