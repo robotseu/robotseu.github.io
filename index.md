@@ -1,6 +1,6 @@
 # Welcome to Kun Qian's Pages
-[Image](https://automation.seu.edu.cn/_upload/article/images/2c/ef/812c1bf842eebeb2e8b574a9b12f/b76f830f-1191-482c-a8ed-b3da6da5610b.jpg)
-[Link](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm)
+![Image](https://automation.seu.edu.cn/_upload/article/images/2c/ef/812c1bf842eebeb2e8b574a9b12f/b76f830f-1191-482c-a8ed-b3da6da5610b.jpg)
+[My SEU website](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm)
 
 
 ## Publication
