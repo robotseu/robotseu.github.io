@@ -3,8 +3,12 @@
 
 [My SEU website](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm)
 
+## News
 
-## Publication
+## Research
+
+
+## Publications
 ### Journal Paper
 [1]Kun Qian, Wei Zhao, Zhewen Ma, Jiale Ma, Xudong Ma, Hai Yu, Wearable-assisted localization and inspection guidance system using egocentric stereo cameras, IEEE Sensors Journal, v 18, n 2, p 809-821, January 15, 2018. (SCI)
 
