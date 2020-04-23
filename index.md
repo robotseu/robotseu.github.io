@@ -1,5 +1,6 @@
 # Welcome to Kun Qian's Pages
 ![Image](https://automation.seu.edu.cn/_upload/article/images/2c/ef/812c1bf842eebeb2e8b574a9b12f/b76f830f-1191-482c-a8ed-b3da6da5610b.jpg)
+
 [My SEU website](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm)
 
 
@@ -88,8 +89,6 @@
 [14]Kun Qian, Xudong Ma, Xianzhong Dai. Simultaneous Robot Localization and Person Tracking Using Rao-Blackwellised Particle Filters With Multi-modal Sensors. 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS’08), Nice, France, Sept. 2008, pp.3452-3457.
 
 
-
-```**Bold** and _Italic_ and `Code` text
 
 
 
