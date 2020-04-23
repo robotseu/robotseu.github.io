@@ -4,12 +4,21 @@
 Kun Qian received his Ph.D degree in control theory and control engineering from Southeast University in 2010. He is currently working as an associate professor at School of Automation, Southeast University. His research interests are robot vision and learning.
 [My SEU website](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm)
 
+## Contact
+School of Automation, Southeast University
+No.2 Sipailou, Nanjing, China, 210096
+Email: kqian@seu.edu.cn
+
+----
 
 ## News
+
 ----
 
 ## Research
+
 ----
+
 ## Publications
 ### Journal Paper
 [1]***Kun Qian***, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Xia Jing, Ma Xudong. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, DOI: 10.1007/s10846-020-01202-3, 2020.(SCI)
