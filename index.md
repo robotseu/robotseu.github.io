@@ -1,9 +1,9 @@
-## Welcome to Kun Qian's Pages
+# Welcome to Kun Qian's Pages
+[Link](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm) and ![Image](https://automation.seu.edu.cn/_upload/article/images/2c/ef/812c1bf842eebeb2e8b574a9b12f/b76f830f-1191-482c-a8ed-b3da6da5610b.jpg)
 
-
-
-### Publication
-# Journal Paper
+src
+## Publication
+### Journal Paper
 [1]Kun Qian, Wei Zhao, Zhewen Ma, Jiale Ma, Xudong Ma, Hai Yu, Wearable-assisted localization and inspection guidance system using egocentric stereo cameras, IEEE Sensors Journal, v 18, n 2, p 809-821, January 15, 2018. (SCI)
 
 [2]Kun Qian, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. Mobile robot self-localization in unstructured environments based on observation localizability estimation with low-cost laser range-finder and RGB-D sensors, International Journal of Advanced Robotic Systems, SAGE Publications, 2016.(SCI)
@@ -56,26 +56,44 @@
 
 [26]钱堃, 马旭东, 戴先中, 房芳. 同时机器人定位与人体跟踪的多源感知协作粒子滤波方法. 机器人, 2008, 30(6): 491-497.
 
+### Conference Paper
 
-```markdown
-```Syntax highlighted code block
+[1]Kun Qian, Xiaobo Zhang, Hai Yu, Xudong Ma, Industrial Maintenance and Assembly Guidance Using a Markerless AR System with Monocular Camera, 2018 15th International Conference on Control, Automation, Robotics and Vision, ICARCV 2018, p 1911-1916. (EI)
 
-# Header 1
-## Header 2
-### Header 3
+[2]Kun Qian, Jun Xu, Ge Gao, Fang Fang, Xudong Ma, Learning Under-Specified Object Manipulations from Human Demonstrations. 2018 15th International Conference on Control, Automation, Robotics and Vision, ICARCV 2018, p 1936-1941.
 
-- Bulleted
-- List
+[3] Jiale Ma, Kun Qian*, Xudong Ma, Wei Zhao, Reliable Loop Closure Detection Using 2-channel Convolutional Neural Networks for Visual SLAM. the 37th Chinese Control Conference, 2018.
 
-1. Numbered
-2. List
+[4]Jun Xu, Kun Qian* Huan Liu, Xudong Ma, Hand pose estimation for robot programming by demonstration in object manipulation tasks, Chinese Control Conference, CCC, v 2018-July, p 5328-5333, October 5, 2018.
+
+[5]Ge Gao, Kun Qian*, Xudong Ma, Jing Xia, Hai Yu. Object Recognition and Augmentation for Wearable-Assistive System Using Egocentric RGB-D Sensor, 2017 IEEE 7th Annual International Conference on CYBER Technology in Automation, Control, and Intelligent Systems, CYBER 2017, p 775-780.
+
+[6]Kun Qian, Dan Niu, Xudong Ma, Fang Fang. Learning spatial constraints using Gaussian process for shared control of semi-autonomous mobile robots. Proceedings of the 14th International Conference on Informatics in Control, Automation and Robotics, v 2, p 201-208, 2017.(EI)
+
+[7]陈愿，钱堃*，赵伟，马旭东，于海，马哲文. 室外作业环境下基于可穿戴式视觉的个人定位与路径引导, 第36届中国控制会议, 2017, pp. 64-69.
+
+[8]高歌，钱堃*，马旭东, 王伟, 于海. 基于似物性估计的设备识别及其在可穿戴辅助系统中的应用, 第36届中国控制会议, 2017.
+
+[9]Kun Qian,, Ge Gao, Fang, Fang, Liangjun Zhang, RGB-D based daily activity recognition for service robots using clustering with Gaussian Mixtures and FastDTW, 2016 International Conference on Advanced Robotics and Mechatronics, p 651-656, October 21, 2016.(EI)
+
+[10]Kun Qian, Zhijie Chen, Xudong Ma, Bo Zhou, Mobile Robot Navigation in Unknown Corridors using Line and Dense Features of Point Clouds, in Proc. of 41st Annual Conference of the IEEE Industrial Electronics Society (IEEE IECON 2015), Yokohama, Japan, 1831-1836.
+
+[11]钱堃, 马旭东, 房芳, 舒超洋. 构件化机器人系统的语义服务建模与自动服务发现，中国控制会议Chinese Control Conference, CCC, p 4948-4953, 2012
+
+[12]Kun Qian, Xudong Ma, Xianzhong Dai, Fang Fang. Semantic Service Composition Mechanism for Component-based Robotic System. In Pro. of the 37th Annual Conference of the IEEE Industrial Electronics Society (IECON 2011), Melbourne, Australia, Nov.7-10, 2011, pp:3311-3316.
+
+[13]Kun Qian, Xudong Ma, Xianzhong Dai and Chunhua Hu. A Multi-camera Approach to Tracking and Localization of People with Coexisting Robots. The 7th World Congress on Intelligent Control and Automation(WCICA’08), Chongqing, China, June 2008, 5162-5167.
+
+[14]Kun Qian, Xudong Ma, Xianzhong Dai. Simultaneous Robot Localization and Person Tracking Using Rao-Blackwellised Particle Filters With Multi-modal Sensors. 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS’08), Nice, France, Sept. 2008, pp.3452-3457.
+
+
 
 ```**Bold** and _Italic_ and `Code` text
 
-```[Link](url) and ![Image](src)
 
 
-### Publication
+
+
 
 
 
