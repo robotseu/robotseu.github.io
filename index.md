@@ -17,7 +17,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 ## Publications
 ### Journal Paper
-[1]***Kun Qian***, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Xia Jing, Ma Xudong. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, DOI: 10.1007/s10846-020-01202-3, 2020.(SCI)
+[1]***Kun Qian***, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Jing Xia, Xudong Ma. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, DOI: 10.1007/s10846-020-01202-3, 2020.(SCI)
 
 [2]***Kun Qian***, Wei Zhao, Kai Li, Xudong Ma, Hai Yu. Visual SLAM with BoPLW Pairs using Egocentric Stereo Camera for Wearable-assisted Substation Inspection, IEEE Sensors Journal, 2020, 20(3):1630-1641(SCI). 
 
