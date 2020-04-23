@@ -18,7 +18,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 [4]***Kun Qian***, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. Mobile robot self-localization in unstructured environments based on observation localizability estimation with low-cost laser range-finder and RGB-D sensors, International Journal of Advanced Robotic Systems, SAGE Publications, 2016.(SCI)
 
-[5]***Kun Qian***, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. Gaussian Process based IAQ Distribution Maping using an Interactive Service Robot. Journal of Ambient Intelligence and Smart Environments. 2016.(SCI)
+[5]***Kun Qian***, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. Gaussian Process based IAQ Distribution Maping using an Interactive Service Robot. Journal of Ambient Intelligence and Smart Environments. 2016, 8: 359-373(SCI)
 
 [6]***Kun Qian***, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. A utilization framework of ubiquitous resources for service robots using semantic matchmaking. International Journal of Advanced Robotic Systems, v 12, April 21, 2015(SCI)
 
