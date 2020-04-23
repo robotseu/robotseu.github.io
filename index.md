@@ -1,7 +1,8 @@
 # Welcome to Kun Qian's Pages
-[Link](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm) and ![Image](https://automation.seu.edu.cn/_upload/article/images/2c/ef/812c1bf842eebeb2e8b574a9b12f/b76f830f-1191-482c-a8ed-b3da6da5610b.jpg)
+[Image](https://automation.seu.edu.cn/_upload/article/images/2c/ef/812c1bf842eebeb2e8b574a9b12f/b76f830f-1191-482c-a8ed-b3da6da5610b.jpg)
+[Link](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm)
 
-src
+
 ## Publication
 ### Journal Paper
 [1]Kun Qian, Wei Zhao, Zhewen Ma, Jiale Ma, Xudong Ma, Hai Yu, Wearable-assisted localization and inspection guidance system using egocentric stereo cameras, IEEE Sensors Journal, v 18, n 2, p 809-821, January 15, 2018. (SCI)
