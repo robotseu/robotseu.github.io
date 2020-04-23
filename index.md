@@ -1,11 +1,14 @@
 # Welcome to Kun Qian's Pages
 ![Image](https://automation.seu.edu.cn/_upload/article/images/2c/ef/812c1bf842eebeb2e8b574a9b12f/b76f830f-1191-482c-a8ed-b3da6da5610b.jpg)
+Kun Qian received his Ph.D degree in control theory and control engineering from Southeast University in 2010. He is currently working as an associate professor at School of Automation, Southeast University. His research interests are robot vision and learning.
 
 [My SEU website](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm)
 
 ## News
 
+
 ## Research
+
 
 
 ## Publications
