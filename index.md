@@ -12,11 +12,11 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ### Journal Paper
 [1]***Kun Qian***, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Xia Jing, Ma Xudong. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent and Robotic System, DOI: 10.1007/s10846-020-01202-3, 2020.(SCI)
 
-[2]***Kun Qian***, Wei Zhao, Kai Li, Xudong Ma, Hai Yu. Visual SLAM with BoPLW Pairs using Egocentric Stereo Camera for Wearable-assisted Substation Inspection, IEEE Sensors Journal, 2020, 20(3):1630-1641(SCI). 
+[2]***Kun Qian***, Wei Zhao, Kai Li, Xudong Ma, Hai Yu. Visual SLAM with BoPLW Pairs using Egocentric Stereo Camera for Wearable-assisted Substation Inspection, IEEE Sensors Journal, 2020, 20(3):1630-1641.(SCI)
 
-[3]***Kun Qian***, Wei Zhao, Zhewen Ma, Jiale Ma, Xudong Ma, Hai Yu, Wearable-assisted localization and inspection guidance system using egocentric stereo cameras, IEEE Sensors Journal, v 18, n 2, p 809-821, January 15, 2018. (SCI)
+[3]***Kun Qian***, Wei Zhao, Zhewen Ma, Jiale Ma, Xudong Ma, Hai Yu, Wearable-assisted localization and inspection guidance system using egocentric stereo cameras, IEEE Sensors Journal, 2018, 18(2):809-821.(SCI)
 
-[4]***Kun Qian***, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. Mobile robot self-localization in unstructured environments based on observation localizability estimation with low-cost laser range-finder and RGB-D sensors, International Journal of Advanced Robotic Systems, SAGE Publications, 2016.(SCI)
+[4]***Kun Qian***, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. Mobile robot self-localization in unstructured environments based on observation localizability estimation with low-cost laser range-finder and RGB-D sensors, International Journal of Advanced Robotic Systems, September-October:1-11, 2016.(SCI)
 
 [5]***Kun Qian***, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. Gaussian Process based IAQ Distribution Maping using an Interactive Service Robot. Journal of Ambient Intelligence and Smart Environments. 2016, 8: 359-373(SCI)
 
