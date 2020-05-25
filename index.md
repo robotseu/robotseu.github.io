@@ -9,7 +9,6 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ## News
 + Our [JINT paper](http://link.springer.com/article/10.1007/s10846-020-01202-3) has been published online![2020.5]
 + Welcome to join Intelligent Robot Lab, School of Automation, Southeast University![2020.4]
-+ This website will be updated more frequently than our SEU website.[2020.3]
 
 ----
 
