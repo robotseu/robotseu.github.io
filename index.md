@@ -7,6 +7,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ We have a paper accepted by RSJ Advanced Robotics.(DOI:10.1080/01691864.2020.1778523)[2020.6]
 + Our [JINT paper](http://link.springer.com/article/10.1007/s10846-020-01202-3) has been published online![2020.5]
 + Welcome to join Intelligent Robot Lab, School of Automation, Southeast University![2020.4]
 
