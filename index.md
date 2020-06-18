@@ -7,6 +7,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ Wei Zhao, Zhewen Ma, Huan Liu and Jiale Ma have defended their MS thesis, congratulations![2020.6]
 + Our TIM paper has been published online.[2020.6]
 + We have a paper accepted by Advanced Robotics.[2020.5]
 + Welcome to join Intelligent Robot Lab, School of Automation, Southeast University![2020.4]
