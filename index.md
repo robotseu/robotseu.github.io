@@ -7,7 +7,10 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ Our TIM paper has been published online.[2020.6]
++ We have a paper accepted by Advanced Robotics.[2020.5]
 + Welcome to join Intelligent Robot Lab, School of Automation, Southeast University![2020.4]
++ We have a paper accepted by JINT.[2020.4]
 
 ----
 ## Research
@@ -20,9 +23,9 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
-[1]Jiale Ma, ***Kun Qian***, Xiaobo Zhang, Xudong Ma. Weakly Supervised Instance Segmentation of Electrical Equipment Based on RGB-T Automatic Annotation, IEEE Transactions on Instrumentation and Measurement, 2020, DOI:10.1109/TIM.2020.3001796. 
+[1]Jiale Ma, ***Kun Qian***, Xiaobo Zhang, Xudong Ma. Weakly Supervised Instance Segmentation of Electrical Equipment Based on RGB-T Automatic Annotation, IEEE Transactions on Instrumentation and Measurement, 2020, DOI:10.1109/TIM.2020.3001796. [Paper](https://ieeexplore.ieee.org/document/9115062)
 
-[2]***Kun Qian***, Huan Liu, et al. Hierarchical and Parameterized Learning of Pick-and-Place Manipulation from Under-specified Human Demonstrations, Advanced Robotics, 2020, DOI:10.1080/01691864.2020.1778523. 
+[2]***Kun Qian***, Huan Liu, et al. Hierarchical and Parameterized Learning of Pick-and-Place Manipulation from Under-specified Human Demonstrations, Advanced Robotics, 2020, DOI:10.1080/01691864.2020.1778523. [Paper](https://www.tandfonline.com/eprint/TQFJB7RIZNBTJETJBRHF/full?target=10.1080/01691864.2020.1778523)
 
 [3]***Kun Qian***, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Jing Xia, Xudong Ma. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, DOI: 10.1007/s10846-020-01202-3, 2020. [Paper](http://link.springer.com/article/10.1007/s10846-020-01202-3)
 
