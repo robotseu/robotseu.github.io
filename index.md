@@ -162,7 +162,8 @@ Hong Yang,
 Huan Wang
 
 毕业去向：
-2020：微软、网易、腾讯、字节跳动、University of Bristol、慕尼黑工业大学
+2020：微软、网易、腾讯、University of Bristol、慕尼黑工业大学、字节跳动
+
 2019：百度、华为
 
 ----
