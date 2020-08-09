@@ -17,7 +17,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ## Research
 + Visual perception, Visual SLAM
 + Robot skill learning, Learning-by-demonstration
-![Image](https://img-blog.csdnimg.cn/20200809170700468.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L21hcnRpbnFr,size_16,color_FFFFFF,t_70 =300x)
+![Image](https://img-blog.csdnimg.cn/20200809171404683.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L21hcnRpbnFr,size_16,color_FFFFFF,t_70)
 + Human-robot interaction
 + Medical Image Processing and 3D Reconstruction
 
