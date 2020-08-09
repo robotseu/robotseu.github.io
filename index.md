@@ -130,10 +130,6 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 ----
 ## 学生（Students）
-Zhewen Ma,
-Wei Zhao,
-Jiale Ma,
-Huan Liu,
 Xiaobo Zhang,
 Kai Li,
 Boxing Gui,
@@ -146,6 +142,11 @@ Xin Xu
 ----
 
 ## 毕业校友（Alumni）
+Yitong Li, Yuyao Yang, Yilin Liao
+Zhewen Ma,
+Wei Zhao,
+Jiale Ma,
+Huan Liu,
 Jing Xia,
 Jun Xu,
 Ge Gao,
@@ -159,6 +160,10 @@ Zhangjun Lu,
 Zhangjie Fu,
 Hong Yang,
 Huan Wang
+
+毕业去向：
+2020：微软、网易、腾讯、字节跳动、University of Bristol、慕尼黑工业大学
+2019：百度、华为
 
 ----
 ## 联系（Contact）
