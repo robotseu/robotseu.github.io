@@ -84,11 +84,11 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 [3]***Kun Qian***, Xiaobo Zhang, Hai Yu, Xudong Ma, Industrial Maintenance and Assembly Guidance Using a Markerless AR System with Monocular Camera, 2018 15th International Conference on Control, Automation, Robotics and Vision, ICARCV 2018, p 1911-1916. 
 
-[4]***Kun Qian***, Jun Xu, Ge Gao, Fang Fang, Xudong Ma, Learning Under-Specified Object Manipulations from Human Demonstrations. 2018 15th International Conference on Control, Automation, Robotics and Vision, ICARCV 2018, p 1936-1941.
+[4]***Kun Qian***, Jun Xu, Ge Gao, Fang Fang, Xudong Ma, Learning Under-Specified Object Manipulations from Human Demonstrations. 2018 15th International Conference on Control, Automation, Robotics and Vision, ICARCV 2018, p 1936-1941.[Paper](https://ieeexplore.ieee.org/document/8581080)
 
 [5]Jiale Ma, ***Kun Qian***, Xudong Ma, Wei Zhao, Reliable Loop Closure Detection Using 2-channel Convolutional Neural Networks for Visual SLAM. the 37th Chinese Control Conference, 2018.
 
-[6]Jun Xu, ***Kun Qian*** Huan Liu, Xudong Ma, Hand pose estimation for robot programming by demonstration in object manipulation tasks, Chinese Control Conference, CCC, v 2018-July, p 5328-5333, October 5, 2018.
+[6]Jun Xu, ***Kun Qian*** Huan Liu, Xudong Ma, Hand pose estimation for robot programming by demonstration in object manipulation tasks, Chinese Control Conference, CCC, v 2018-July, p 5328-5333, October 5, 2018.[Paper](https://ieeexplore.ieee.org/document/8482556/)
 
 [7]Ge Gao, ***Kun Qian***, Xudong Ma, Jing Xia, Hai Yu. Object Recognition and Augmentation for Wearable-Assistive System Using Egocentric RGB-D Sensor, 2017 IEEE 7th Annual International Conference on CYBER Technology in Automation, Control, and Intelligent Systems, CYBER 2017, p 775-780.
 
