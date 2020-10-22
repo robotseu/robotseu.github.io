@@ -1,3 +1,5 @@
+
+
 # Welcome to Kun Qian's Pages
 ![Image](https://automation.seu.edu.cn/_upload/article/images/2c/ef/812c1bf842eebeb2e8b574a9b12f/b76f830f-1191-482c-a8ed-b3da6da5610b.jpg)
 
@@ -7,6 +9,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ Kai Li has won IEEE RCAR 2020 Best Paper Finalist.[2020.9]
 + Wei Zhao, Zhewen Ma, Huan Liu and Jiale Ma have defended their MS thesis, congratulations![2020.6]
 + Our TIM paper has been published online.[2020.6]
 + We have a paper accepted by Advanced Robotics.[2020.5]
