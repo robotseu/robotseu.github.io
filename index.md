@@ -5,6 +5,7 @@
 
 Kun Qian received his Ph.D degree in control theory and control engineering from Southeast University in 2010. He is currently working as an associate professor at School of Automation, Southeast University. His research interests are robot vision and learning.
 [My SEU website](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm)
+[My researchgate website](https://www.researchgate.net/profile/Kun_Qian32)
 
 
 
@@ -18,10 +19,10 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 ----
 ## Research
-+ Visual perception, Visual SLAM
++ Visual perception and learning
++ Visual SLAM and 3D Reconstruction
 + Robot skill learning, Learning-by-demonstration
 + Human-robot interaction
-+ Medical Image Processing and 3D Reconstruction
 
 ----
 ## Publications
