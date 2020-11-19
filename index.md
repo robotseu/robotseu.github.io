@@ -9,6 +9,8 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ We have won the 3rd prize of 2020 Robocup China (@home group)! [2020.11.15]
++ We have won the 1st and 2nd prize of 2020 Jiangsu Province College Students Robot Competition! [2020.11.13]
 + Kai Li has won IEEE RCAR 2020 Best Paper Finalist.[2020.9]
 + Wei Zhao, Zhewen Ma, Huan Liu and Jiale Ma have defended their MS thesis, congratulations![2020.6]
 + Our TIM paper has been published online.[2020.6]
