@@ -84,9 +84,9 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ### Conference Paper
 [2020]Kai Li, ***Kun Qian***, et al. Regional Semantic Learning and Mapping Based on Convolutional Neural Network and Conditional Random Field, 2020 IEEE International Conference on Real-time Computing and Robotics (RCAR), 2020, pp.14-19. [Paper](https://ieeexplore.ieee.org/document/9303262)
 
-[2020]Boxing Gui, ***Kun Qian***, et al. Knowledge Induced Deep Q-Network for Robot Push and Grasp Manipulation Skills Learning, CAC, 2020.
+[2020]Boxing Gui, ***Kun Qian***, et al. Knowledge Induced Deep Q-Network for Robot Push and Grasp Manipulation Skills Learning, CAC, 2020. [Paper](https://ieeexplore.ieee.org/document/9326745)
 
-[2020]Xiaobo Zhang, ***Kun Qian***, et al. Fire Detection based on Convolutional Neural Networks with Channel Attention, CAC, 2020.
+[2020]Xiaobo Zhang, ***Kun Qian***, et al. Fire Detection based on Convolutional Neural Networks with Channel Attention, CAC, 2020.[Paper](https://ieeexplore.ieee.org/document/9327309)
 
 [2019]Zhewen Ma, ***Kun Qian***, Wei Zhao, Xudong Ma, Hai Yu, Multi-session mapping for indoor substation environment using a head-mounted RGB-D sensor, 3rd IEEE International Conference on Energy Internet, ICEI 2019, pp.1-6, 2019. 
 
