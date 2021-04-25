@@ -23,8 +23,11 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Research
 + Robot Manipulation Skill Learning
-We combine deep reinforcement learning methods and GANs for learning sim2real transferable skills for robot manipulations.
+
+-We combine deep reinforcement learning methods and GANs for learning sim2real transferable skills for robot manipulations.
+
 + Learning-by-demonstration: 
+
 + Robot Vision:
 
 
