@@ -5,11 +5,12 @@
 
 
 Kun Qian received his Ph.D degree in control theory and control engineering from Southeast University in 2010. He is currently working as an associate professor at School of Automation, Southeast University. His research interests are robot vision and learning.
-[My SEU website](https://automation.seu.edu.cn/2019/0528/c24504a275190/page.htm), [My researchgate website](https://www.researchgate.net/profile/Kun_Qian32)
+[My SEU website](https://automation.seu.edu.cn/qk/list.htm), [My researchgate website](https://www.researchgate.net/profile/Kun_Qian32)
 
 
 
 ## News
++ We have a paper accepted by ICRA 2021! [2021.4]
 + We have won the 3rd prize of 2020 Robocup China (@home group)! [2020.11.15]
 + We have won the 1st and 2nd prize of 2020 Jiangsu Province College Students Robot Competition(Visual Recognition Group)! [2020.11.13]
 + Kai Li has won IEEE RCAR 2020 Best Paper Finalist.[2020.9]
