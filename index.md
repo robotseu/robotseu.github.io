@@ -21,9 +21,9 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 ----
 ## Research
-++ Robot Manipulation Skill Learning
-++ Learning-by-demonstration
-++ Visual SLAM, Robot Vision
++ Robot Manipulation Skill Learning
++ Learning-by-demonstration
++ Visual SLAM, Robot Vision
 
 
 
