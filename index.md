@@ -32,7 +32,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 + SLAM and applications
   
-  Recent progress: We aim the provide visual/lidar SLAM methods for reconstructing 3D maps for BIM, GIM and other applications. 
+  Recent progress: We aim the provide visual/lidar SLAM methods for mobile robots, UAVs and other 3D reconstruction applications. 
 
 
 
