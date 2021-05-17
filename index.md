@@ -25,6 +25,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 + Robot Grasp and Manipulation Skill Learning 
   
   Recent progress: We combine deep reinforcement learning methods and GANs for learning sim2real transferable skills for robot manipulations. In particular, we enable generalizable 6DoFs robot grasping with CNN based grasp pose detection methods.   
+  ![Image](https://pan.seu.edu.cn:443/link/883BA8B73B0CC94AC3072C35E1B127D2)
 
 + Learning-by-demonstration
   
