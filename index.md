@@ -26,22 +26,17 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
   
   We combine deep reinforcement learning methods and GANs for learning sim2real transferable skills for robot manipulations. In particular, we enable generalizable 6DoFs robot grasping with CNN based grasp pose detection methods.   
 
-![Image](https://thumbnail0.baidupcs.com/thumbnail/e45047350g33a88589d89716b263f9a1?fid=2282535413-250528-32183849718518&time=1621231200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-lolQylAgLgFED6yqc1J1Mf%2BIiZo%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=8932523927160763004&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video)
-![Image](https://thumbnail0.baidupcs.com/thumbnail/f69816c39ma3e9a6bd7bb0e5bf161f09?fid=2282535413-250528-1101648523277138&time=1621231200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Av81BxP9mzWoA2J6s86NizasJs0%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=8932541045425872920&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video)
-
  
 + Learning-by-demonstration
   
   We exploit symbolic learning of manipulation tasks from human demonstration as well as task-parameterized trajectory learning with DMPs, IPs and other motion primitive models. Learning contact force related skills is also considered for transfering human manipulation skills to robots.
  
-![Image](https://thumbnail0.baidupcs.com/thumbnail/5fb58dce1ib0256fb1922bf4a75302c4?fid=2282535413-250528-30408211326299&time=1621231200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-3AclozEz5hsmEBJJUlCKMtcWbVw%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=8932555757565938956&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video)
-
 
 + SLAM and applications
   
   We aim the provide visual/lidar SLAM methods for mobile robots, UAVs and other 3D reconstruction applications. 
 
-  ![Image](https://thumbnail0.baidupcs.com/thumbnail/d0f05d622td5c0a09bddc343a6138de1?fid=2282535413-250528-492097045138847&time=1621231200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-P41j3tYJ%2BbslqR7N%2FQixFggRvoM%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=8932496907126403524&dp-callid=0&file_type=0&size=c710_u400&quality=100&vuk=-&ft=video)
+
 
 
 ----
