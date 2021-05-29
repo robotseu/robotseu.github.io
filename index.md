@@ -10,6 +10,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ Xiaobo Zhang, Kai Li and Boxing Gui have defended their MS thesis, congratulations![2021.5]
 + We have won the 2rd prize of 2021 Robocup China (@home group)! [2021.5]
 + We have a paper accepted by ICRA 2021! [2021.4]
 + We have won the 3rd prize of 2020 Robocup China (@home group)! [2020.11.15]
@@ -138,18 +139,25 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 ----
 ## Students
-Xiaobo Zhang,
-Kai Li,
-Boxing Gui,
+Yongqiang Zhao,
+Lishuang Zhang,
+Weiyi Kong,
+Yi Zhang,
+Jishen Bai,
+Keqin Shi,
 Yanhui Duan,
 Shenghao Chen,
 Rui Liu,
 Xingshuo Jing,
-Xin Xu
+Xin Xu,
+Yun Zhang
 
 ----
 
 ## Alumni
+Xiaobo Zhang,
+Kai Li,
+Boxing Gui,
 Yitong Li, Yuyao Yang, Yilin Liao
 Zhewen Ma,
 Wei Zhao,
