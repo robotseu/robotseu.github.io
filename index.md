@@ -10,6 +10,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ We have won the 2rd prize of 2021 Robocup China (@home group)! [2021.5]
 + We have a paper accepted by ICRA 2021! [2021.4]
 + We have won the 3rd prize of 2020 Robocup China (@home group)! [2020.11.15]
 + We have won the 1st and 2nd prize of 2020 Jiangsu Province College Students Robot Competition(Visual Recognition Group)! [2020.11.13]
