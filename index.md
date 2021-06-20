@@ -10,6 +10,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ We have won the grand prize of Chinese Undergraduate Computer Design Contest(Jiangsu Province)![2021.6]
 + Xiaobo Zhang, Kai Li and Boxing Gui have defended their MS thesis, congratulations![2021.5]
 + We have won the 2rd prize of 2021 Robocup China (@home group)! [2021.5]
 + We have a paper accepted by ICRA 2021! [2021.4]
@@ -181,9 +182,18 @@ Zhangjie Fu,
 Hong Yang,
 Huan Wang
 
-毕业去向：
-2020：微软、网易、腾讯、University of Bristol、慕尼黑工业大学、字节跳动
-2019：百度、华为
+近三年毕业生去向：
+微软、网易、腾讯、University of Bristol、慕尼黑工业大学、字节跳动、百度、华为
+
+
+----
+
+## Student's Award
++ Grand prize of Chinese Undergraduate Computer Design Contest(Jiangsu Province), 2021.
++ 2nd prize of Robocup@Home (China), 2021.
++ 3rd prize of Robocup@Home (China), 2020.
++ 1st and 2nd prize of Jiangsu Province College Students Robot Competition, 2020.
++ 3rd prize of Jiangsu Province College Students Robot Competition, 2019.
 
 ----
 ## Contact
