@@ -10,6 +10,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ Jiale Ma is rewarded 2020 Excellent Master's Thesis, Southeast University.[2021.7]
 + We have won the grand prize of Chinese Undergraduate Computer Design Contest(Jiangsu Province)![2021.6]
 + Xiaobo Zhang, Kai Li and Boxing Gui have defended their MS thesis, congratulations![2021.5]
 + We have won the 2rd prize of 2021 Robocup China (@home group)! [2021.5]
