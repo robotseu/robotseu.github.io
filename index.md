@@ -46,7 +46,9 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
-[2021]Bo Zhou, Yi He, ***Kun Qian***, Xudong Ma, Xiaomao Li. S4-SLAM: A real-time 3D LIDAR SLAM system for ground/watersurface multi-scene outdoor applications. Autonomous Robots 45(3), DOI: 10.1007/s10514-020-09948-3.
+[2021a]Xingshuo Jing, ***Kun Qian***, Xin Xu, Jishen Bai, Bo Zhou, Domain adversarial transfer for cross-domain and task-constrained grasp pose detection, Robotics and Autonomous Systems. 2021, DOI: 10.1016/j.robot.2021.103872.[Paper](https://www.sciencedirect.com/science/article/pii/S0921889021001573)
+
+[2021b]Bo Zhou, Yi He, ***Kun Qian***, Xudong Ma, Xiaomao Li. S4-SLAM: A real-time 3D LIDAR SLAM system for ground/watersurface multi-scene outdoor applications. Autonomous Robots 45(3), DOI: 10.1007/s10514-020-09948-3.
 
 [2020a]Jiale Ma, ***Kun Qian****, Xiaobo Zhang, Xudong Ma. Weakly Supervised Instance Segmentation of Electrical Equipment Based on RGB-T Automatic Annotation, IEEE Transactions on Instrumentation and Measurement,  v 69, n 12, p 9720-9731, December 2020, DOI:10.1109/TIM.2020.3001796. [Paper](https://ieeexplore.ieee.org/document/9115062)
 
