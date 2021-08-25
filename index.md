@@ -46,7 +46,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
-[2021a]Xingshuo Jing, ***Kun Qian***, Xin Xu, Jishen Bai, Bo Zhou, Domain adversarial transfer for cross-domain and task-constrained grasp pose detection, Robotics and Autonomous Systems. 2021, DOI: 10.1016/j.robot.2021.103872.[Paper](https://www.sciencedirect.com/science/article/pii/S0921889021001573)
+[2021a]Xingshuo Jing, ***Kun Qian****, Xin Xu, Jishen Bai, Bo Zhou, Domain adversarial transfer for cross-domain and task-constrained grasp pose detection, Robotics and Autonomous Systems. 2021, DOI: 10.1016/j.robot.2021.103872.[Paper](https://www.sciencedirect.com/science/article/pii/S0921889021001573)
 
 [2021b]Bo Zhou, Yi He, ***Kun Qian***, Xudong Ma, Xiaomao Li. S4-SLAM: A real-time 3D LIDAR SLAM system for ground/watersurface multi-scene outdoor applications. Autonomous Robots 45(3), DOI: 10.1007/s10514-020-09948-3.
 
