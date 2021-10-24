@@ -5,7 +5,7 @@
 
 
 Kun Qian received his Ph.D degree in control theory and control engineering from Southeast University in 2010. He is currently working as an associate professor at School of Automation, Southeast University. His research interests are robot vision and learning.
-[My SEU website](https://automation.seu.edu.cn/qk/list.htm), [My researchgate website](https://www.researchgate.net/profile/Kun_Qian32). From Oct. 2021, I'll be also working as an one-year honarary research fellow at the Department of Computer Science, University of Liverpool, UK. 
+[My SEU website](https://automation.seu.edu.cn/qk/list.htm), [My researchgate website](https://www.researchgate.net/profile/Kun_Qian32). From Oct. 2021, I'll be also working as an one-year honarary research fellow at the Department of Computer Science, University of Liverpool, UK. So during Oct. 2021 and Oct. 2022, you can also contact me via Kun.Qian@liverpool.ac.uk .
 
 
 
