@@ -53,7 +53,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 [2020a]Jiale Ma, ***Kun Qian****, Xiaobo Zhang, Xudong Ma. Weakly Supervised Instance Segmentation of Electrical Equipment Based on RGB-T Automatic Annotation, IEEE Transactions on Instrumentation and Measurement,  v 69, n 12, p 9720-9731, December 2020, DOI:10.1109/TIM.2020.3001796. [Paper](https://ieeexplore.ieee.org/document/9115062)
 
-[2020b]***Kun Qian****, Huan Liu, et al. Hierarchical and Parameterized Learning of Pick-and-Place Manipulation from Under-specified Human Demonstrations, Advanced Robotics, v 34, n 13, p 858-872, July 2, 2020, DOI:10.1080/01691864.2020.1778523. [Paper](https://www.tandfonline.com/eprint/TQFJB7RIZNBTJETJBRHF/full?target=10.1080/01691864.2020.1778523)
+[2020b]***Kun Qian****, Huan Liu, Valls Miro Jaime, Xingshuo Jing, Bo Zhou. Hierarchical and Parameterized Learning of Pick-and-Place Manipulation from Under-specified Human Demonstrations, Advanced Robotics, v 34, n 13, p 858-872, July 2, 2020, DOI:10.1080/01691864.2020.1778523. [Paper](https://www.tandfonline.com/eprint/TQFJB7RIZNBTJETJBRHF/full?target=10.1080/01691864.2020.1778523)
 
 [2020c]***Kun Qian****, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Jing Xia, Xudong Ma. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, v 100, n 1, p 145-163, October 1, 2020, DOI: 10.1007/s10846-020-01202-3, 2020. [Paper](http://link.springer.com/article/10.1007/s10846-020-01202-3)
 
