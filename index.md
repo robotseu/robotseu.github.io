@@ -167,7 +167,7 @@ Yun Zhang
 Xiaobo Zhang,
 Kai Li,
 Boxing Gui,
-Yitong Li, Yuyao Yang, Yilin Liao
+Yitong Li, Yuyao Yang, Yilin Liao, 
 Zhewen Ma,
 Wei Zhao,
 Jiale Ma,
@@ -193,6 +193,7 @@ Huan Wang
 ----
 
 ## Student's Award
++ 1st and 2nd prize of Jiangsu Province College Students Robot Competition, 2021.
 + Grand prize of Chinese Undergraduate Computer Design Contest(Jiangsu Province), 2021.
 + 2nd prize of Robocup@Home (China), 2021.
 + 3rd prize of Robocup@Home (China), 2020.
