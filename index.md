@@ -10,6 +10,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ We have won the 1st and 2nd prize of 2021 Jiangsu Province College Students Robot Competition(Visual Recognition Group)! [2021.11]
 + We have a paper accepted by RAS![2021.8]
 + Jiale Ma is rewarded 2020 Excellent Master's Thesis, Southeast University.[2021.7]
 + We have won the grand prize of Chinese Undergraduate Computer Design Contest(Jiangsu Province)![2021.6]
