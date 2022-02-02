@@ -10,6 +10,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ We have a paper accepted by RAS![2022.1]
 + We have won the 1st and 2nd prize of 2021 Jiangsu Province College Students Robot Competition(Visual Recognition Group)! [2021.11]
 + We have a paper accepted by RAS![2021.8]
 + Jiale Ma is rewarded 2020 Excellent Master's Thesis, Southeast University.[2021.7]
@@ -48,6 +49,8 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
+[2022]***Kun Qian***, Xin Xu, et al, Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks, Robotics and Autonomous Systems, 2022. accepted.
+
 [2021a]Xingshuo Jing, ***Kun Qian****, Xin Xu, Jishen Bai, Bo Zhou, Domain adversarial transfer for cross-domain and task-constrained grasp pose detection, Robotics and Autonomous Systems. 2021,145,103872, DOI: 10.1016/j.robot.2021.103872.[Paper](https://www.sciencedirect.com/science/article/pii/S0921889021001573)
 
 [2021b]Bo Zhou, Yi He, ***Kun Qian***, Xudong Ma, Xiaomao Li. S4-SLAM: A real-time 3D LIDAR SLAM system for ground/watersurface multi-scene outdoor applications. Autonomous Robots 45(3), DOI: 10.1007/s10514-020-09948-3.
