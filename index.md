@@ -52,7 +52,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ### Journal Paper
 [1]Yinghui Liu, ***Kun Qian****, Xin Xu, Bo Zhou, Fang Fang, Grasp Pose Learning from Human Demonstration with Task Constraints. Journal of Intelligent & Robotic Systems, accepted.
 
-[2]***Kun Qian***, Xin Xu, et al, Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks, Robotics and Autonomous Systems, 2022, DOI: 10.1016/j.robot.2022.104046.
+[2]***Kun Qian***, Xin Xu, Huan Liu, Jishen Bai, Shan Luo, Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks, Robotics and Autonomous Systems, 2022, DOI: 10.1016/j.robot.2022.104046. [Paper] (https://www.sciencedirect.com/science/article/abs/pii/S0921889022000185)
 
 [3]Xingshuo Jing, ***Kun Qian****, Xin Xu, Jishen Bai, Bo Zhou, Domain adversarial transfer for cross-domain and task-constrained grasp pose detection, Robotics and Autonomous Systems. 2021,145,103872, DOI: 10.1016/j.robot.2021.103872.[Paper](https://www.sciencedirect.com/science/article/pii/S0921889021001573)
 
