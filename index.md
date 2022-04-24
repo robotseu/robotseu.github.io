@@ -10,7 +10,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
-+ We have a paper accepted by JINT[2022.4]
++ We have a paper accepted by JINT, congratulations to Yinghui![2022.4]
 + We have a paper accepted by RAS![2022.1]
 + We have won the 1st and 2nd prize of 2021 Jiangsu Province College Students Robot Competition(Visual Recognition Group)! [2021.11]
 + We have a paper accepted by RAS![2021.8]
@@ -50,7 +50,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
-[1]Yinghui Liu, ***Kun Qian***, Xin Xu, Bo Zhou, Fang Fang, Grasp Pose Learning from Human Demonstration with Task Constraints. Journal of Intelligent & Robotic Systems, accepted.
+[1]Yinghui Liu, ***Kun Qian****, Xin Xu, Bo Zhou, Fang Fang, Grasp Pose Learning from Human Demonstration with Task Constraints. Journal of Intelligent & Robotic Systems, accepted.
 
 [2]***Kun Qian***, Xin Xu, et al, Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks, Robotics and Autonomous Systems, 2022, DOI: 10.1016/j.robot.2022.104046.
 
