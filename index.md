@@ -62,9 +62,9 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 [6]***Kun Qian****, Huan Liu, Valls Miro Jaime, Xingshuo Jing, Bo Zhou. Hierarchical and Parameterized Learning of Pick-and-Place Manipulation from Under-specified Human Demonstrations, Advanced Robotics, v 34, n 13, p 858-872, July 2, 2020, DOI:10.1080/01691864.2020.1778523. [Paper](https://www.tandfonline.com/eprint/TQFJB7RIZNBTJETJBRHF/full?target=10.1080/01691864.2020.1778523)
 
-[7]***Kun Qian****, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Jing Xia, Xudong Ma. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, v 100, n 1, p 145-163, October 1, 2020, DOI: 10.1007/s10846-020-01202-3.(IF=3.3013) [Paper](http://link.springer.com/article/10.1007/s10846-020-01202-3)
+[7]***Kun Qian****, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Jing Xia, Xudong Ma. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, v 100, n 1, p 145-163, October 1, 2020, DOI: 10.1007/s10846-020-01202-3.(IF=2.646) [Paper](http://link.springer.com/article/10.1007/s10846-020-01202-3)
 
-[8]***Kun Qian****, Wei Zhao, Kai Li, Xudong Ma, Hai Yu. Visual SLAM with BoPLW Pairs using Egocentric Stereo Camera for Wearable-assisted Substation Inspection, IEEE Sensors Journal, 2020, 20(3):1630-1641. [Code](https://github.com/robotseu/ORB_Line_SLAM),[Paper](https://ieeexplore.ieee.org/document/8868098)
+[8]***Kun Qian****, Wei Zhao, Kai Li, Xudong Ma, Hai Yu. Visual SLAM with BoPLW Pairs using Egocentric Stereo Camera for Wearable-assisted Substation Inspection, IEEE Sensors Journal, 2020, 20(3):1630-1641. [Code](https://github.com/robotseu/ORB_Line_SLAM),(IF=3.3013)[Paper](https://ieeexplore.ieee.org/document/8868098)
 
 [9]刘环, ***钱堃****, 桂博兴, 马旭东, 基于多演示动作基元参数化学习的机器人任务泛化，机器人, 2019, 41(5):574-582.
 
