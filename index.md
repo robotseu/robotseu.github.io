@@ -113,41 +113,41 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 [1]***钱堃****, 马旭东, 戴先中, 房芳. 同时机器人定位与人体跟踪的多源感知协作粒子滤波方法. 机器人, 2008, 30(6): 491-497.
 
 ### Conference Paper
-[1]Xin Xu, ***Kun Qian****, Bo Zhou, Shenghao Chen, Yitong Li, Two-Stream 2D/3D Residual Networks for Learning Robot Manipulations from Human Demonstration Videos, 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021, pp. 3353-3358.
+[18]Xin Xu, ***Kun Qian****, Bo Zhou, Shenghao Chen, Yitong Li, Two-Stream 2D/3D Residual Networks for Learning Robot Manipulations from Human Demonstration Videos, 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021, pp. 3353-3358.
 
-[2]Kai Li, ***Kun Qian****, et al. Regional Semantic Learning and Mapping Based on Convolutional Neural Network and Conditional Random Field, 2020 IEEE International Conference on Real-time Computing and Robotics (RCAR), 2020, pp.14-19. [Paper](https://ieeexplore.ieee.org/document/9303262)
+[17]Kai Li, ***Kun Qian****, et al. Regional Semantic Learning and Mapping Based on Convolutional Neural Network and Conditional Random Field, 2020 IEEE International Conference on Real-time Computing and Robotics (RCAR), 2020, pp.14-19. [Paper](https://ieeexplore.ieee.org/document/9303262)
 
-[3]Boxing Gui, ***Kun Qian****, et al. Knowledge Induced Deep Q-Network for Robot Push and Grasp Manipulation Skills Learning, CAC, 2020. [Paper](https://ieeexplore.ieee.org/document/9326745)
+[16]Boxing Gui, ***Kun Qian****, et al. Knowledge Induced Deep Q-Network for Robot Push and Grasp Manipulation Skills Learning, CAC, 2020. [Paper](https://ieeexplore.ieee.org/document/9326745)
 
-[4]Xiaobo Zhang, ***Kun Qian****, et al. Fire Detection based on Convolutional Neural Networks with Channel Attention, CAC, 2020.[Paper](https://ieeexplore.ieee.org/document/9327309)
+[15]Xiaobo Zhang, ***Kun Qian****, et al. Fire Detection based on Convolutional Neural Networks with Channel Attention, CAC, 2020.[Paper](https://ieeexplore.ieee.org/document/9327309)
 
-[5]Zhewen Ma, ***Kun Qian****, Wei Zhao, Xudong Ma, Hai Yu, Multi-session mapping for indoor substation environment using a head-mounted RGB-D sensor, 3rd IEEE International Conference on Energy Internet, ICEI 2019, pp.1-6, 2019. 
+[14]Zhewen Ma, ***Kun Qian****, Wei Zhao, Xudong Ma, Hai Yu, Multi-session mapping for indoor substation environment using a head-mounted RGB-D sensor, 3rd IEEE International Conference on Energy Internet, ICEI 2019, pp.1-6, 2019. 
 
-[6]Wei Zhao, ***Kun Qian****, Zhewen Ma, Xudong Ma, Stereo Visual SLAM Using Bag of Point and Line Word Pairs, Proceedings of 12th International Conference on Intelligent Robotics and Applications, ICIRA 2019, pp.651-661, 2019.
+[13]Wei Zhao, ***Kun Qian****, Zhewen Ma, Xudong Ma, Stereo Visual SLAM Using Bag of Point and Line Word Pairs, Proceedings of 12th International Conference on Intelligent Robotics and Applications, ICIRA 2019, pp.651-661, 2019.
 
-[7]***Kun Qian****, Xiaobo Zhang, Hai Yu, Xudong Ma, Industrial Maintenance and Assembly Guidance Using a Markerless AR System with Monocular Camera, 2018 15th International Conference on Control, Automation, Robotics and Vision, ICARCV 2018, p 1911-1916. 
+[12]***Kun Qian****, Xiaobo Zhang, Hai Yu, Xudong Ma, Industrial Maintenance and Assembly Guidance Using a Markerless AR System with Monocular Camera, 2018 15th International Conference on Control, Automation, Robotics and Vision, ICARCV 2018, p 1911-1916. 
 
-[8]***Kun Qian****, Jun Xu, Ge Gao, Fang Fang, Xudong Ma, Learning Under-Specified Object Manipulations from Human Demonstrations. 2018 15th International Conference on Control, Automation, Robotics and Vision, ICARCV 2018, p 1936-1941.[Paper](https://ieeexplore.ieee.org/document/8581080)
+[11]***Kun Qian****, Jun Xu, Ge Gao, Fang Fang, Xudong Ma, Learning Under-Specified Object Manipulations from Human Demonstrations. 2018 15th International Conference on Control, Automation, Robotics and Vision, ICARCV 2018, p 1936-1941.[Paper](https://ieeexplore.ieee.org/document/8581080)
 
-[9]Jiale Ma, ***Kun Qian****, Xudong Ma, Wei Zhao, Reliable Loop Closure Detection Using 2-channel Convolutional Neural Networks for Visual SLAM. the 37th Chinese Control Conference, 2018.
+[10]Jiale Ma, ***Kun Qian****, Xudong Ma, Wei Zhao, Reliable Loop Closure Detection Using 2-channel Convolutional Neural Networks for Visual SLAM. the 37th Chinese Control Conference, 2018.
 
-[10]Jun Xu, ***Kun Qian****, Huan Liu, Xudong Ma, Hand pose estimation for robot programming by demonstration in object manipulation tasks, Chinese Control Conference, CCC, v 2018-July, p 5328-5333, October 5, 2018.[Paper](https://ieeexplore.ieee.org/document/8482556/)
+[9]Jun Xu, ***Kun Qian****, Huan Liu, Xudong Ma, Hand pose estimation for robot programming by demonstration in object manipulation tasks, Chinese Control Conference, CCC, v 2018-July, p 5328-5333, October 5, 2018.[Paper](https://ieeexplore.ieee.org/document/8482556/)
 
-[11]Ge Gao, ***Kun Qian****, Xudong Ma, Jing Xia, Hai Yu. Object Recognition and Augmentation for Wearable-Assistive System Using Egocentric RGB-D Sensor, 2017 IEEE 7th Annual International Conference on CYBER Technology in Automation, Control, and Intelligent Systems, CYBER 2017, p 775-780.
+[8]Ge Gao, ***Kun Qian****, Xudong Ma, Jing Xia, Hai Yu. Object Recognition and Augmentation for Wearable-Assistive System Using Egocentric RGB-D Sensor, 2017 IEEE 7th Annual International Conference on CYBER Technology in Automation, Control, and Intelligent Systems, CYBER 2017, p 775-780.
 
-[12]***Kun Qian****, Dan Niu, Xudong Ma, Fang Fang. Learning spatial constraints using Gaussian process for shared control of semi-autonomous mobile robots. Proceedings of the 14th International Conference on Informatics in Control, Automation and Robotics, v 2, p 201-208, 2017.
+[7]***Kun Qian****, Dan Niu, Xudong Ma, Fang Fang. Learning spatial constraints using Gaussian process for shared control of semi-autonomous mobile robots. Proceedings of the 14th International Conference on Informatics in Control, Automation and Robotics, v 2, p 201-208, 2017.
 
-[13]***Kun Qian****, Ge Gao, Fang, Fang, Liangjun Zhang, RGB-D based daily activity recognition for service robots using clustering with Gaussian Mixtures and FastDTW, 2016 International Conference on Advanced Robotics and Mechatronics, p 651-656, October 21, 2016.
+[6]***Kun Qian****, Ge Gao, Fang, Fang, Liangjun Zhang, RGB-D based daily activity recognition for service robots using clustering with Gaussian Mixtures and FastDTW, 2016 International Conference on Advanced Robotics and Mechatronics, p 651-656, October 21, 2016.
 
-[14]***Kun Qian****, Zhijie Chen, Xudong Ma, Bo Zhou, Mobile Robot Navigation in Unknown Corridors using Line and Dense Features of Point Clouds, in Proc. of 41st Annual Conference of the IEEE Industrial Electronics Society (IEEE IECON 2015), Yokohama, Japan, 1831-1836.
+[5]***Kun Qian****, Zhijie Chen, Xudong Ma, Bo Zhou, Mobile Robot Navigation in Unknown Corridors using Line and Dense Features of Point Clouds, in Proc. of 41st Annual Conference of the IEEE Industrial Electronics Society (IEEE IECON 2015), Yokohama, Japan, 1831-1836.
 
-[15]***Kun Qian****, Xudong Ma, Fang Fang, Hong Yan. 3D Environmental Mapping of Mobile Robot Using a Low-cost Depth Camera, the 2013 IEEE International Conference on Mechatronics and Automation, Takamatsu, Kagawa, Japan, August 4-7, 2013, pp.507-512
+[4]***Kun Qian****, Xudong Ma, Fang Fang, Hong Yan. 3D Environmental Mapping of Mobile Robot Using a Low-cost Depth Camera, the 2013 IEEE International Conference on Mechatronics and Automation, Takamatsu, Kagawa, Japan, August 4-7, 2013, pp.507-512
 
-[16]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang. Semantic Service Composition Mechanism for Component-based Robotic System. In Pro. of the 37th Annual Conference of the IEEE Industrial Electronics Society (IECON 2011), Melbourne, Australia, Nov.7-10, 2011, pp:3311-3316.
+[3]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang. Semantic Service Composition Mechanism for Component-based Robotic System. In Pro. of the 37th Annual Conference of the IEEE Industrial Electronics Society (IECON 2011), Melbourne, Australia, Nov.7-10, 2011, pp:3311-3316.
 
-[17]***Kun Qian****, Xudong Ma, Xianzhong Dai and Chunhua Hu. A Multi-camera Approach to Tracking and Localization of People with Coexisting Robots. The 7th World Congress on Intelligent Control and Automation(WCICA’ 08), Chongqing, China, June 2008, 5162-5167.
+[2]***Kun Qian****, Xudong Ma, Xianzhong Dai and Chunhua Hu. A Multi-camera Approach to Tracking and Localization of People with Coexisting Robots. The 7th World Congress on Intelligent Control and Automation(WCICA’ 08), Chongqing, China, June 2008, 5162-5167.
 
-[18]***Kun Qian****, Xudong Ma, Xianzhong Dai. Simultaneous Robot Localization and Person Tracking Using Rao-Blackwellised Particle Filters With Multi-modal Sensors. 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS’08), Nice, France, Sept. 2008, pp.3452-3457.
+[1]***Kun Qian****, Xudong Ma, Xianzhong Dai. Simultaneous Robot Localization and Person Tracking Using Rao-Blackwellised Particle Filters With Multi-modal Sensors. 2008 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS’08), Nice, France, Sept. 2008, pp.3452-3457.
 
 ----
 ## Students
