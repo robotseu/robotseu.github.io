@@ -50,67 +50,67 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
-[1]Yinghui Liu, ***Kun Qian****, Xin Xu, Bo Zhou, Fang Fang, Grasp Pose Learning from Human Demonstration with Task Constraints. Journal of Intelligent & Robotic Systems, accepted.
+[31]Yinghui Liu, ***Kun Qian****, Xin Xu, Bo Zhou, Fang Fang, Grasp Pose Learning from Human Demonstration with Task Constraints. Journal of Intelligent & Robotic Systems, 2022, DOI:10.1007/s10846-022-01650-z
 
-[2]***Kun Qian***, Xin Xu, Huan Liu, Jishen Bai, Shan Luo, Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks, Robotics and Autonomous Systems, 2022, DOI: 10.1016/j.robot.2022.104046. (IF=3.120) [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889022000185)
+[30]***Kun Qian***, Xin Xu, Huan Liu, Jishen Bai, Shan Luo, Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks, Robotics and Autonomous Systems, 2022, DOI: 10.1016/j.robot.2022.104046. (IF=3.120) [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889022000185)
 
-[3]Xingshuo Jing, ***Kun Qian****, Xin Xu, Jishen Bai, Bo Zhou, Domain adversarial transfer for cross-domain and task-constrained grasp pose detection, Robotics and Autonomous Systems. 2021,145,103872, DOI: 10.1016/j.robot.2021.103872. (IF=3.120).[Paper](https://www.sciencedirect.com/science/article/pii/S0921889021001573)
+[29]Xingshuo Jing, ***Kun Qian****, Xin Xu, Jishen Bai, Bo Zhou, Domain adversarial transfer for cross-domain and task-constrained grasp pose detection, Robotics and Autonomous Systems. 2021,145,103872, DOI: 10.1016/j.robot.2021.103872. (IF=3.120).[Paper](https://www.sciencedirect.com/science/article/pii/S0921889021001573)
 
-[4]Bo Zhou, Yi He, ***Kun Qian***, Xudong Ma, Xiaomao Li. S4-SLAM: A real-time 3D LIDAR SLAM system for ground/watersurface multi-scene outdoor applications. Autonomous Robots 45(3), DOI: 10.1007/s10514-020-09948-3.(IF=3.000)
+[28]Bo Zhou, Yi He, ***Kun Qian***, Xudong Ma, Xiaomao Li. S4-SLAM: A real-time 3D LIDAR SLAM system for ground/watersurface multi-scene outdoor applications. Autonomous Robots 45(3), DOI: 10.1007/s10514-020-09948-3.(IF=3.000)
 
-[5]Jiale Ma, ***Kun Qian****, Xiaobo Zhang, Xudong Ma. Weakly Supervised Instance Segmentation of Electrical Equipment Based on RGB-T Automatic Annotation, IEEE Transactions on Instrumentation and Measurement,  v 69, n 12, p 9720-9731, December 2020. DOI:10.1109/TIM.2020.3001796. (IF=4.0159) [Paper](https://ieeexplore.ieee.org/document/9115062)
+[27]Jiale Ma, ***Kun Qian****, Xiaobo Zhang, Xudong Ma. Weakly Supervised Instance Segmentation of Electrical Equipment Based on RGB-T Automatic Annotation, IEEE Transactions on Instrumentation and Measurement,  v 69, n 12, p 9720-9731, December 2020. DOI:10.1109/TIM.2020.3001796. (IF=4.0159) [Paper](https://ieeexplore.ieee.org/document/9115062)
 
-[6]***Kun Qian****, Huan Liu, Valls Miro Jaime, Xingshuo Jing, Bo Zhou. Hierarchical and Parameterized Learning of Pick-and-Place Manipulation from Under-specified Human Demonstrations, Advanced Robotics, v 34, n 13, p 858-872, July 2, 2020, DOI:10.1080/01691864.2020.1778523. [Paper](https://www.tandfonline.com/eprint/TQFJB7RIZNBTJETJBRHF/full?target=10.1080/01691864.2020.1778523)
+[26]***Kun Qian****, Huan Liu, Valls Miro Jaime, Xingshuo Jing, Bo Zhou. Hierarchical and Parameterized Learning of Pick-and-Place Manipulation from Under-specified Human Demonstrations, Advanced Robotics, v 34, n 13, p 858-872, July 2, 2020, DOI:10.1080/01691864.2020.1778523. [Paper](https://www.tandfonline.com/eprint/TQFJB7RIZNBTJETJBRHF/full?target=10.1080/01691864.2020.1778523)
 
-[7]***Kun Qian****, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Jing Xia, Xudong Ma. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, v 100, n 1, p 145-163, October 1, 2020, DOI: 10.1007/s10846-020-01202-3.(IF=2.646) [Paper](http://link.springer.com/article/10.1007/s10846-020-01202-3)
+[25]***Kun Qian****, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Jing Xia, Xudong Ma. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, v 100, n 1, p 145-163, October 1, 2020, DOI: 10.1007/s10846-020-01202-3.(IF=2.646) [Paper](http://link.springer.com/article/10.1007/s10846-020-01202-3)
 
-[8]***Kun Qian****, Wei Zhao, Kai Li, Xudong Ma, Hai Yu. Visual SLAM with BoPLW Pairs using Egocentric Stereo Camera for Wearable-assisted Substation Inspection, IEEE Sensors Journal, 2020, 20(3):1630-1641. [Code](https://github.com/robotseu/ORB_Line_SLAM),(IF=3.3013)[Paper](https://ieeexplore.ieee.org/document/8868098)
+[24]***Kun Qian****, Wei Zhao, Kai Li, Xudong Ma, Hai Yu. Visual SLAM with BoPLW Pairs using Egocentric Stereo Camera for Wearable-assisted Substation Inspection, IEEE Sensors Journal, 2020, 20(3):1630-1641. [Code](https://github.com/robotseu/ORB_Line_SLAM),(IF=3.3013)[Paper](https://ieeexplore.ieee.org/document/8868098)
 
-[9]刘环, ***钱堃****, 桂博兴, 马旭东, 基于多演示动作基元参数化学习的机器人任务泛化，机器人, 2019, 41(5):574-582.
+[23]刘环, ***钱堃****, 桂博兴, 马旭东, 基于多演示动作基元参数化学习的机器人任务泛化，机器人, 2019, 41(5):574-582.
 
-[10]***Kun Qian****, Wei Zhao, Zhewen Ma, Jiale Ma, Xudong Ma, Hai Yu, Wearable-assisted localization and inspection guidance system using egocentric stereo cameras, IEEE Sensors Journal, 2018, 18(2):809-821. [Paper](https://ieeexplore.ieee.org/document/8107537/)
+[22]***Kun Qian****, Wei Zhao, Zhewen Ma, Jiale Ma, Xudong Ma, Hai Yu, Wearable-assisted localization and inspection guidance system using egocentric stereo cameras, IEEE Sensors Journal, 2018, 18(2):809-821. [Paper](https://ieeexplore.ieee.org/document/8107537/)
 
-[11]夏晶, ***钱堃****, 马旭东, 刘环, 基于级联卷积神经网络的机器人平面抓取位姿快速检测, 2018,40(6): 794-802.
+[21]夏晶, ***钱堃****, 马旭东, 刘环, 基于级联卷积神经网络的机器人平面抓取位姿快速检测, 2018,40(6): 794-802.
 
-[12]Jie Niu, Xiongzhu Bo, ***Kun Qian***, Exploiting contrast cues for salient region detection, Multimedia Tools and Applications, 2017, 76(8): 10427-10441.
+[20]Jie Niu, Xiongzhu Bo, ***Kun Qian***, Exploiting contrast cues for salient region detection, Multimedia Tools and Applications, 2017, 76(8): 10427-10441.
 
-[13]孙自飞, ***钱堃****, 马旭东, 戴先中, 动态环境中基于多传感器观测可定位性估计的移动机器人自定位方法, 智能系统学报, 2017.4.7, (4)：1~7.10.13973/j.cnki.robot.170702
+[19]孙自飞, ***钱堃****, 马旭东, 戴先中, 动态环境中基于多传感器观测可定位性估计的移动机器人自定位方法, 智能系统学报, 2017.4.7, (4)：1~7.10.13973/j.cnki.robot.170702
 
-[14]Bo Zhou, ***Kun Qian***, Xudong Ma, Xianzhong Dai, Ellipsoidal bounding set-membership identification approach for robust fault diagnosis with application to mobile robots, Journal of Systems Engineering and Electronics, 2017, 28(5):986-995. 
+[18]Bo Zhou, ***Kun Qian***, Xudong Ma, Xianzhong Dai, Ellipsoidal bounding set-membership identification approach for robust fault diagnosis with application to mobile robots, Journal of Systems Engineering and Electronics, 2017, 28(5):986-995. 
 
-[15]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. Mobile robot self-localization in unstructured environments based on observation localizability estimation with low-cost laser range-finder and RGB-D sensors, International Journal of Advanced Robotic Systems, September-October:1-11, 2016. [Paper](https://journals.sagepub.com/doi/pdf/10.1177/1729881416670902)
+[17]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. Mobile robot self-localization in unstructured environments based on observation localizability estimation with low-cost laser range-finder and RGB-D sensors, International Journal of Advanced Robotic Systems, September-October:1-11, 2016. [Paper](https://journals.sagepub.com/doi/pdf/10.1177/1729881416670902)
 
 [16]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. Gaussian Process based IAQ Distribution Maping using an Interactive Service Robot. Journal of Ambient Intelligence and Smart Environments. 2016, 8: 359-373. [Paper](https://content.iospress.com/articles/journal-of-ambient-intelligence-and-smart-environments/ais376)
 
-[17]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. A utilization framework of ubiquitous resources for service robots using semantic matchmaking. International Journal of Advanced Robotic Systems, v 12, April 21, 2015.
+[15]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. A utilization framework of ubiquitous resources for service robots using semantic matchmaking. International Journal of Advanced Robotic Systems, v 12, April 21, 2015.
 
-[18]Changhai Peng, ***Kun Qian***, Design and application of a VOC-monitoring system based on a ZigBee wireless sensor network. IEEE Sensors Journal, 2015, 15(4): 2255-2268.
+[14]Changhai Peng, ***Kun Qian***, Design and application of a VOC-monitoring system based on a ZigBee wireless sensor network. IEEE Sensors Journal, 2015, 15(4): 2255-2268.
 
-[19]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang, Knowledge-enabled decision making for robotic system utilizing ambient service components, Journal of Ambient Intelligence and Smart Environments, 2014, 6(1):5-19.
+[13]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang, Knowledge-enabled decision making for robotic system utilizing ambient service components, Journal of Ambient Intelligence and Smart Environments, 2014, 6(1):5-19.
 
-[20]Changhai Peng, ***Kun Qian***, Development and application of a ZigBee-based building energy monitoring and control system, the Scientific World Journal, Volume 2014, DOI: 10.1155/2014/528410).
+[12]Changhai Peng, ***Kun Qian***, Development and application of a ZigBee-based building energy monitoring and control system, the Scientific World Journal, Volume 2014, DOI: 10.1155/2014/528410).
 
-[21]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. Decision-theoretic Navigation of Service Robots using POMDPs with Human-Robot Co-occurrence Prediction. International Journal of Advanced Robotic Systems, 2013, Vol. 10, 2013, pp.1-12.
+[11]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang, Bo Zhou. Decision-theoretic Navigation of Service Robots using POMDPs with Human-Robot Co-occurrence Prediction. International Journal of Advanced Robotic Systems, 2013, Vol. 10, 2013, pp.1-12.
 
-[22]Bo Zhou, ***Kun Qian***, Xudong Ma, Xianzhong Dai. A set-theoretic algorithm for real-time terrain mapping of mobile robots in outdoor environments. International Journal of Advanced Robotic Systems, 2013, 10: 1-14.
+[10]Bo Zhou, ***Kun Qian***, Xudong Ma, Xianzhong Dai. A set-theoretic algorithm for real-time terrain mapping of mobile robots in outdoor environments. International Journal of Advanced Robotic Systems, 2013, 10: 1-14.
 
-[23]***Kun Qian****, Xudong Ma, Xianzhong Dai and Fang Fang. Flexible Ambient Service Discovery and Composition for Component-based Robotic System. Journal of Ambient Intelligence and Smart Environments. 4(6), 2012, pp.547–562.
+[9]***Kun Qian****, Xudong Ma, Xianzhong Dai and Fang Fang. Flexible Ambient Service Discovery and Composition for Component-based Robotic System. Journal of Ambient Intelligence and Smart Environments. 4(6), 2012, pp.547–562.
 
-[24]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang. Improved Rao-Blackwellized particle filter for simultaneous robot localization and person-tracking with single mobile sensor. Journal of Control Theory and Applications, Vol. 9, No.4, 2011. 2011, 9(4):472-478.
+[8]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang. Improved Rao-Blackwellized particle filter for simultaneous robot localization and person-tracking with single mobile sensor. Journal of Control Theory and Applications, Vol. 9, No.4, 2011. 2011, 9(4):472-478.
 
-[25]***钱堃****, 马旭东, 戴先中, 房芳. 基于层次化SLAM的未知环境级联地图模型创建方法, 机器人, 2011, 33 (6): 736-741.
+[7]***钱堃****, 马旭东, 戴先中, 房芳. 基于层次化SLAM的未知环境级联地图模型创建方法, 机器人, 2011, 33 (6): 736-741.
 
-[26]***Kun Qian****, Xudong Ma, Xianzhong Dai and Fang Fang. Socially Acceptable Pre-collision Safety Strategies for Human-Compliant Navigation of Service Robots. Advanced Robotics, 24(13), 2010, 1813–1840.
+[6]***Kun Qian****, Xudong Ma, Xianzhong Dai and Fang Fang. Socially Acceptable Pre-collision Safety Strategies for Human-Compliant Navigation of Service Robots. Advanced Robotics, 24(13), 2010, 1813–1840.
 
-[27]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang. Robotic Etiquette: Socially Acceptable Navigation of Service Robots with Human Motion Pattern Learning and Prediction. Journal of Bionic Engineering, 7(2), 2010, 150–160.
+[5]***Kun Qian****, Xudong Ma, Xianzhong Dai, Fang Fang. Robotic Etiquette: Socially Acceptable Navigation of Service Robots with Human Motion Pattern Learning and Prediction. Journal of Bionic Engineering, 7(2), 2010, 150–160.
 
-[28]Chunhua Hu, Xudong Ma, Xianzhong Dai and ***Kun Qian***, Reliable people tracking approach for mobile robot in indoor environments, Robotics and Computer-Integrated Manufacturing, 26(2): 174–179, 2010.
+[4]Chunhua Hu, Xudong Ma, Xianzhong Dai and ***Kun Qian***, Reliable people tracking approach for mobile robot in indoor environments, Robotics and Computer-Integrated Manufacturing, 26(2): 174–179, 2010.
 
-[29]***钱堃****, 马旭东, 戴先中, 房芳. 预测行人运动的服务机器人POMDP导航. 机器人. 2010, 31(1), 18-24.
+[3]***钱堃****, 马旭东, 戴先中, 房芳. 预测行人运动的服务机器人POMDP导航. 机器人. 2010, 31(1), 18-24.
 
-[30]***钱堃****, 马旭东, 戴先中. 基于抽象隐马尔可夫模型的运动行为识别方法. 模式识别与人工智能. 2009, 22(3): 433-439.
+[2]***钱堃****, 马旭东, 戴先中. 基于抽象隐马尔可夫模型的运动行为识别方法. 模式识别与人工智能. 2009, 22(3): 433-439.
 
-[31]***钱堃****, 马旭东, 戴先中, 房芳. 同时机器人定位与人体跟踪的多源感知协作粒子滤波方法. 机器人, 2008, 30(6): 491-497.
+[1]***钱堃****, 马旭东, 戴先中, 房芳. 同时机器人定位与人体跟踪的多源感知协作粒子滤波方法. 机器人, 2008, 30(6): 491-497.
 
 ### Conference Paper
 [1]Xin Xu, ***Kun Qian****, Bo Zhou, Shenghao Chen, Yitong Li, Two-Stream 2D/3D Residual Networks for Learning Robot Manipulations from Human Demonstration Videos, 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021, pp. 3353-3358.
