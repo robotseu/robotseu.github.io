@@ -4,9 +4,9 @@
 ![Image](https://automation.seu.edu.cn/_upload/article/images/2c/ef/812c1bf842eebeb2e8b574a9b12f/b76f830f-1191-482c-a8ed-b3da6da5610b.jpg)
 
 
-Kun Qian received his Ph.D degree in control theory and control engineering from Southeast University in 2010. He is currently working as an associate professor at School of Automation, Southeast University. His research interests are robot vision and learning.
-[My SEU website](https://automation.seu.edu.cn/qk/list.htm), [My researchgate website](https://www.researchgate.net/profile/Kun_Qian32). From Oct. 2021 to Oct. 2022, I'll be visiting the University of Liverpool and King's College London, UK, sponsored by China Scholarship Council. 
+Kun Qian received his Ph.D degree in control theory and control engineering from Southeast University in 2010. He is currently working as an associate professor at School of Automation, Southeast University. His research interests are robot vision and learning. From Oct. 2021 to Oct. 2022, I'll be visiting the University of Liverpool and King's College London, UK, sponsored by China Scholarship Council. 
 
+注：百度搜索的学院个人主页是旧版，学院新版官网为[My SEU website](https://automation.seu.edu.cn/qk/list.htm)
 
 
 ## News
