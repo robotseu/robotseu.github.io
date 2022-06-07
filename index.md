@@ -55,19 +55,19 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 [31]Yinghui Liu, ***Kun Qian****, Xin Xu, Bo Zhou, Fang Fang, Grasp Pose Learning from Human Demonstration with Task Constraints. Journal of Intelligent & Robotic Systems, 2022, DOI:10.1007/s10846-022-01650-z.[Paper](https://link.springer.com/article/10.1007/s10846-022-01650-z)
 
-[30]***Kun Qian***, Xin Xu, Huan Liu, Jishen Bai, Shan Luo, Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks, Robotics and Autonomous Systems, 2022, DOI: 10.1016/j.robot.2022.104046. (IF=3.120) [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889022000185)
+[30]***Kun Qian***, Xin Xu, Huan Liu, Jishen Bai, Shan Luo, Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks, Robotics and Autonomous Systems, 2022, DOI: 10.1016/j.robot.2022.104046. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889022000185)
 
-[29]Xingshuo Jing, ***Kun Qian****, Xin Xu, Jishen Bai, Bo Zhou, Domain adversarial transfer for cross-domain and task-constrained grasp pose detection, Robotics and Autonomous Systems. 2021,145,103872, DOI: 10.1016/j.robot.2021.103872. (IF=3.120).[Paper](https://www.sciencedirect.com/science/article/pii/S0921889021001573)
+[29]Xingshuo Jing, ***Kun Qian****, Xin Xu, Jishen Bai, Bo Zhou, Domain adversarial transfer for cross-domain and task-constrained grasp pose detection, Robotics and Autonomous Systems. 2021,145,103872, DOI: 10.1016/j.robot.2021.103872.[Paper](https://www.sciencedirect.com/science/article/pii/S0921889021001573)
 
-[28]Bo Zhou, Yi He, ***Kun Qian***, Xudong Ma, Xiaomao Li. S4-SLAM: A real-time 3D LIDAR SLAM system for ground/watersurface multi-scene outdoor applications. Autonomous Robots 45(3), DOI: 10.1007/s10514-020-09948-3.(IF=3.000)
+[28]Bo Zhou, Yi He, ***Kun Qian***, Xudong Ma, Xiaomao Li. S4-SLAM: A real-time 3D LIDAR SLAM system for ground/watersurface multi-scene outdoor applications. Autonomous Robots 45(3), DOI: 10.1007/s10514-020-09948-3.
 
-[27]Jiale Ma, ***Kun Qian****, Xiaobo Zhang, Xudong Ma. Weakly Supervised Instance Segmentation of Electrical Equipment Based on RGB-T Automatic Annotation, IEEE Transactions on Instrumentation and Measurement,  v 69, n 12, p 9720-9731, December 2020. DOI:10.1109/TIM.2020.3001796. (IF=4.0159) [Paper](https://ieeexplore.ieee.org/document/9115062)
+[27]Jiale Ma, ***Kun Qian****, Xiaobo Zhang, Xudong Ma. Weakly Supervised Instance Segmentation of Electrical Equipment Based on RGB-T Automatic Annotation, IEEE Transactions on Instrumentation and Measurement,  v 69, n 12, p 9720-9731, December 2020. DOI:10.1109/TIM.2020.3001796. [Paper](https://ieeexplore.ieee.org/document/9115062)
 
 [26]***Kun Qian****, Huan Liu, Valls Miro Jaime, Xingshuo Jing, Bo Zhou. Hierarchical and Parameterized Learning of Pick-and-Place Manipulation from Under-specified Human Demonstrations, Advanced Robotics, v 34, n 13, p 858-872, July 2, 2020, DOI:10.1080/01691864.2020.1778523. [Paper](https://www.tandfonline.com/eprint/TQFJB7RIZNBTJETJBRHF/full?target=10.1080/01691864.2020.1778523)
 
-[25]***Kun Qian****, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Jing Xia, Xudong Ma. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, v 100, n 1, p 145-163, October 1, 2020, DOI: 10.1007/s10846-020-01202-3.(IF=2.646) [Paper](http://link.springer.com/article/10.1007/s10846-020-01202-3)
+[25]***Kun Qian****, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Jing Xia, Xudong Ma. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, v 100, n 1, p 145-163, October 1, 2020, DOI: 10.1007/s10846-020-01202-3. [Paper](http://link.springer.com/article/10.1007/s10846-020-01202-3)
 
-[24]***Kun Qian****, Wei Zhao, Kai Li, Xudong Ma, Hai Yu. Visual SLAM with BoPLW Pairs using Egocentric Stereo Camera for Wearable-assisted Substation Inspection, IEEE Sensors Journal, 2020, 20(3):1630-1641. [Code](https://github.com/robotseu/ORB_Line_SLAM),(IF=3.3013)[Paper](https://ieeexplore.ieee.org/document/8868098)
+[24]***Kun Qian****, Wei Zhao, Kai Li, Xudong Ma, Hai Yu. Visual SLAM with BoPLW Pairs using Egocentric Stereo Camera for Wearable-assisted Substation Inspection, IEEE Sensors Journal, 2020, 20(3):1630-1641. [Code](https://github.com/robotseu/ORB_Line_SLAM),[Paper](https://ieeexplore.ieee.org/document/8868098)
 
 [23]刘环, ***钱堃****, 桂博兴, 马旭东, 基于多演示动作基元参数化学习的机器人任务泛化，机器人, 2019, 41(5):574-582.
 
