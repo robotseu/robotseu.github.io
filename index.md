@@ -51,7 +51,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
-[32]Xin Xu, ***Kun Qian****, Xingshuo Jing, Wei Song*, Learning Robot Manipulation Skills from Human Demonstration Videos using Two-stream 2D/3D Residual Networks with Self-Attention. IEEE Transactions on Cognitive and Developmental Systems, 2022, DOI: 10.1109/TCDS.2022.3182877. [Paper](https://ieeexplore.ieee.org/document/9795859)
+[32]Xin Xu, ***Kun Qian****, Xingshuo Jing*, Wei Song*, Learning Robot Manipulation Skills from Human Demonstration Videos using Two-stream 2D/3D Residual Networks with Self-Attention. IEEE Transactions on Cognitive and Developmental Systems, 2022, DOI: 10.1109/TCDS.2022.3182877. [Paper](https://ieeexplore.ieee.org/document/9795859)
 
 [31]Yinghui Liu, ***Kun Qian****, Xin Xu, Bo Zhou, Fang Fang, Grasp Pose Learning from Human Demonstration with Task Constraints. Journal of Intelligent & Robotic Systems, 2022, DOI:10.1007/s10846-022-01650-z.[Paper](https://link.springer.com/article/10.1007/s10846-022-01650-z)
 
