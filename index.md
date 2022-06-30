@@ -154,6 +154,12 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 ----
 ## Students
+Tianhao Zhang
+Zhuoyang Zhang,
+Boyi Duan,
+Tongkai Xu,
+Da Xu,
+Lujing Zhou,
 Yongqiang Zhao,
 Lishuang Zhang,
 Weiyi Kong,
@@ -164,9 +170,7 @@ Yongjie Liu,
 Yi Zhang,
 Jishen Bai,
 Keqin Shi,
-Yanhui Duan,
 Shenghao Chen,
-Rui Liu,
 Xingshuo Jing,
 Xin Xu,
 Yun Zhang
@@ -174,6 +178,8 @@ Yun Zhang
 ----
 
 ## Alumni
+Yanhui Duan,
+Rui Liu,
 Xiaobo Zhang,
 Kai Li,
 Boxing Gui,
@@ -197,7 +203,7 @@ Hong Yang,
 Huan Wang
 
 近三年毕业生去向：
-微软、网易、腾讯、University of Bristol、慕尼黑工业大学、字节跳动、百度、华为
+微软、网易、腾讯、University of Bristol、慕尼黑工业大学、字节跳动、百度、华为、华泰
 
 
 ----
