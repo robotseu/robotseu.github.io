@@ -6,7 +6,7 @@
 
 Kun Qian received his Ph.D degree in control theory and control engineering from Southeast University in 2010. He is currently working as an associate professor at School of Automation, Southeast University. His research interests are robot vision and learning. From Oct. 2021 to Oct. 2022, I'll be visiting the University of Liverpool and King's College London, UK, sponsored by China Scholarship Council. 
 
-注：百度搜索的学院个人主页是旧版，学院新版官网为[My SEU website](https://automation.seu.edu.cn/qk/list.htm)
+[My SEU website](https://automation.seu.edu.cn/qk/list.htm)
 
 
 ## News
