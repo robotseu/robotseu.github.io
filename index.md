@@ -10,6 +10,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ We have two papers accepted by RAS and TCDS![2023.1]
 + We have a paper accepted by TCDS, congratulations to Xin Xu![2022.6]
 + We have a paper accepted by JINT, congratulations to Yinghui![2022.4]
 + We have a paper accepted by RAS![2022.1]
@@ -31,19 +32,11 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 ----
 ## Research
-+ Robot Grasp and Manipulation Skill Learning 
-  
-  We combine deep reinforcement learning methods and GANs for learning sim2real transferable skills for robot manipulations. In particular, we enable generalizable 6DoFs robot grasping with CNN based grasp pose detection methods.   
++ Robot Grasping and Manipulation Skill Learning   
++ SLAM
++ Computer Vision Applications
 
- 
-+ Learning-by-demonstration
-  
-  We exploit symbolic learning of manipulation tasks from human demonstration as well as task-parameterized trajectory learning with DMPs, IPs and other motion primitive models. Learning contact force related skills is also considered for transfering human manipulation skills to robots.
- 
 
-+ SLAM and applications
-  
-  We aim the provide visual/lidar SLAM methods for mobile robots, UAVs and other 3D reconstruction applications. 
 
 
 
@@ -51,6 +44,10 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
+[35]***Kun Qian****, Yanhui Duan, Chaomin Luo, Yongqiang Zhao, Xingshuo Jing. Pixel-Level Domain Adaptation for Real-to-Sim Object Pose Estimation January 2023IEEE Transactions on Cognitive and Developmental Systems PP(99):1-1 DOI: 10.1109/TCDS.2023.3237502
+
+[34]Yongqiang Zhao, Xingshuo Jing, ***Kun Qian****, Daniel Fernandes Gomes, Shan luo, Skill generalization of tubular object manipulation with tactile sensing and Sim2Real learning, December 2022, Robotics and Autonomous Systems 160(7815):104321 DOI: 10.1016/j.robot.2022.104321
+
 [33]Yun Zhang, Rui Liu, Bo Zhou, Hai Yu, ***Kun Qian****. Visual Loop Closure Detection with Instance Segmentation and Image Inpainting in Dynamic Scenes using Wearable Camera, IEEE Sensors Journal, 2022, DOI: 10.1109/JSEN.2022.3190999.
 
 [32]Xin Xu, ***Kun Qian****, Xingshuo Jing, Wei Song*, Learning Robot Manipulation Skills from Human Demonstration Videos using Two-stream 2D/3D Residual Networks with Self-Attention. IEEE Transactions on Cognitive and Developmental Systems, 2022, DOI: 10.1109/TCDS.2022.3182877. [Paper](https://ieeexplore.ieee.org/document/9795859)
