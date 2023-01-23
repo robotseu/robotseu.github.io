@@ -48,7 +48,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 [34]Yongqiang Zhao, Xingshuo Jing, ***Kun Qian****, Daniel Fernandes Gomes, Shan luo, Skill generalization of tubular object manipulation with tactile sensing and Sim2Real learning, 2022, Robotics and Autonomous Systems 160(7815):104321 DOI: 10.1016/j.robot.2022.104321. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S092188902200210X)
 
-[33]Yun Zhang, Rui Liu, Bo Zhou, Hai Yu, ***Kun Qian****. Visual Loop Closure Detection with Instance Segmentation and Image Inpainting in Dynamic Scenes using Wearable Camera, IEEE Sensors Journal, 2022, DOI: 10.1109/JSEN.2022.3190999.
+[33]Yun Zhang, Rui Liu, Bo Zhou, Hai Yu, ***Kun Qian****. Visual Loop Closure Detection with Instance Segmentation and Image Inpainting in Dynamic Scenes using Wearable Camera, IEEE Sensors Journal, 2022, DOI: 10.1109/JSEN.2022.3190999.[Paper](https://ieeexplore.ieee.org/document/9834231/)
 
 [32]Xin Xu, ***Kun Qian****, Xingshuo Jing, Wei Song*, Learning Robot Manipulation Skills from Human Demonstration Videos using Two-stream 2D/3D Residual Networks with Self-Attention. IEEE Transactions on Cognitive and Developmental Systems, 2022, DOI: 10.1109/TCDS.2022.3182877. [Paper](https://ieeexplore.ieee.org/document/9795859)
 
