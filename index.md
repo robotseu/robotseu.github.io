@@ -44,6 +44,8 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
+[36]Xingshuo Jing, ***Kun Qian****, Tudor Jianu, Shan Luo. Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images, IEEE Transactions on Instrumentation and Measurement , 2023, PP(99):1-1 DOI: 10.1109/TIM.2023.3268458. [Paper](https://ieeexplore.ieee.org/document/10106009/) 
+
 [35]***Kun Qian****, Yanhui Duan, Chaomin Luo, Yongqiang Zhao, Xingshuo Jing. Pixel-Level Domain Adaptation for Real-to-Sim Object Pose Estimation, IEEE Transactions on Cognitive and Developmental Systems, 2023, PP(99):1-1 DOI: 10.1109/TCDS.2023.3237502. [Paper](https://ieeexplore.ieee.org/abstract/document/10018456) 
 
 [34]Yongqiang Zhao, Xingshuo Jing, ***Kun Qian****, Daniel Fernandes Gomes, Shan luo, Skill generalization of tubular object manipulation with tactile sensing and Sim2Real learning, 2022, Robotics and Autonomous Systems 160(7815):104321 DOI: 10.1016/j.robot.2022.104321. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S092188902200210X)
