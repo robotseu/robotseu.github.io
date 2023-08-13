@@ -46,7 +46,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
-[37]***Kun Qian****, Zhuoyang Zhang, Wei Song, Jianfeng Liao. GVGNet: Gaze-Directed Visual Grounding for Learning Under-Specified Object Referring Intention, IEEE Robotics and Automation Letters 8(9):1-8, DOI: 10.1109/LRA.2023.3301294. [Paper](https://ieeexplore.ieee.org/document/10202186/) 
+[37]***Kun Qian****, Zhuoyang Zhang, Wei Song, Jianfeng Liao. GVGNet: Gaze-Directed Visual Grounding for Learning Under-Specified Object Referring Intention, IEEE Robotics and Automation Letters, 2023, 8(9):1-8, DOI: 10.1109/LRA.2023.3301294. [Paper](https://ieeexplore.ieee.org/document/10202186/) 
 
 [36]Xingshuo Jing, ***Kun Qian****, Tudor Jianu, Shan Luo. Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images, IEEE Transactions on Instrumentation and Measurement , 2023, PP(99):1-1 DOI: 10.1109/TIM.2023.3268458. [Paper](https://ieeexplore.ieee.org/document/10106009/) 
 
