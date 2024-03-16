@@ -11,6 +11,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 ## News
 + We have a paper accepted by TGRS, congratulations to Yixin Fang![2024.2]
++ We won the championship of 2023 Jiangsu Province College Students Robot Competition(Visual Recognition Group)! [2023.11]
 + We have won the 1st prize of 2023 Robocup China (@home group)! [2023.7]
 + We have a paper accepted by IEEE TIM, congratulations to Jing![2023.5]
 + We have two papers accepted by RAS and TCDS![2023.1]
