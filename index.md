@@ -10,6 +10,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ We have a paper accepted by EAAI, congratulations to Zhuoyang![2024.2]
 + We have a paper accepted by TGRS, congratulations to Yixin Fang![2024.2]
 + We won the championship of 2023 Jiangsu Province College Students Robot Competition(Visual Recognition Group)! [2023.11]
 + We have won the 1st prize of 2023 Robocup China (@home group)! [2023.7]
@@ -48,6 +49,10 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
+[40]Zhuoyang Zhang, ***Kun Qian****, Bo Zhou, Fang Fang, Xudong Ma, Gaze-assisted visual grounding via knowledge distillation for referred object grasping with under-specified object referring, Engineering Applications of Artificial Intelligence,  Vol.133, Part E, July 2024, 108493, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0952197624006511)
+
+[39]Xin Xu, ***Kun Qian****, Bo Zhou, Fang Fang, Xudong Ma, Imitating via manipulability: Geometry-aware combined DMP with via-point and speed adaptation, Computers and Electrical Engineering, Vol.117, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0045790624001757)
+
 [38]Yixin Fang, ***Kun Qian****, Yun Zhang, Tong Shi, Hai Yu, Segmented Curved-Voxel Occupancy Descriptor for Dynamic-Aware LiDAR Odometry and Mapping, IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024. [Paper](https://ieeexplore.ieee.org/document/10419066)
 
 [37]***Kun Qian****, Zhuoyang Zhang, Wei Song, Jianfeng Liao. GVGNet: Gaze-Directed Visual Grounding for Learning Under-Specified Object Referring Intention, IEEE Robotics and Automation Letters, 2023, 8(9):1-8, DOI: 10.1109/LRA.2023.3301294. [Paper](https://ieeexplore.ieee.org/document/10202186/) 
