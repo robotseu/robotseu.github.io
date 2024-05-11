@@ -10,6 +10,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ We have a paper accepted by RAL, congratulations to Yongqiang![2024.5]
 + We have a paper accepted by EAAI, congratulations to Zhuoyang![2024.4]
 + We have a paper accepted by TGRS, congratulations to Yixin Fang![2024.2]
 + We won the championship of 2023 Jiangsu Province College Students Robot Competition(Visual Recognition Group)! [2023.11]
@@ -49,6 +50,8 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
+[41]Yongqiang Zhao, ***Kun Qian****, Boyi Duan and Shan Luo, FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-Motor Robot Manipulation Skills, in IEEE Robotics and Automation Letters, vol. 9, no. 6, pp. 5647-5654,[Paper](https://ieeexplore.ieee.org/document/10518085)
+
 [40]Zhuoyang Zhang, ***Kun Qian****, Bo Zhou, Fang Fang, Xudong Ma, Gaze-assisted visual grounding via knowledge distillation for referred object grasping with under-specified object referring, Engineering Applications of Artificial Intelligence,  Vol.133, Part E, July 2024, 108493, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0952197624006511)
 
 [39]Xin Xu, ***Kun Qian****, Bo Zhou, Fang Fang, Xudong Ma, Imitating via manipulability: Geometry-aware combined DMP with via-point and speed adaptation, Computers and Electrical Engineering, Vol.117, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0045790624001757)
