@@ -10,6 +10,8 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ We have a paper accepted by Automation in Construction, congratulations to Boyi Duan![2025.1]
++ We have two papers accepted by RAL, congratulations to Ling Tong and Tong Shi![2025.1]
 + We have a paper accepted by RAL, congratulations to Yongqiang![2024.5]
 + We have a paper accepted by EAAI, congratulations to Zhuoyang![2024.4]
 + We have a paper accepted by TGRS, congratulations to Yixin Fang![2024.2]
@@ -50,6 +52,12 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
+[46]Xingshuo Jing, ***Kun Qian****, Markus Vincze, CAGT: Sim-to-Real Depth Completion with Interactive Embedding Aggregation and Geometry Awareness for Transparent Objects, IEEE Transactions on Circuits and Systems for Video Technology, 2025[Paper](https://ieeexplore.ieee.org/document/10891843)
+
+[45]Boyi Duan,  ***Kun Qian****, Aohua Liu, Shan Luo. Visual–tactile learning of robotic cable-in-duct installation skills, Automation in Construction, Volume 170, February 2025, 105905[Paper](https://www.sciencedirect.com/science/article/pii/S0926580524006411)
+
+[44]Ling Tong,  ***Kun Qian****, Xingshuo Jing. LBSNet: Lightweight Joint Boundary Detection and Semantic Segmentation for Transparent and Reflective Objects, in IEEE Robotics and Automation Letters, vol. 10, no. 2, pp. 955-962, Feb. 2025,[Paper](https://ieeexplore.ieee.org/document/10801210)
+
 [43]Tong Shi,  ***Kun Qian****, Yixi Fang, Yun Zhang, Hai Yu. Point-Line LIVO Using Patch-Based Gradient Optimization for Degenerate Scenes, in IEEE Robotics and Automation Letters, vol. 9, no. 11, pp. 9717-9724, 2024,[Paper](https://ieeexplore.ieee.org/document/10688407)
 
 [42]Xin Xu, ***Kun Qian****, Bo Zhou, Fang Fang, S2SNet: Two-stream Geometry-aware Sequence to Sequence Network for Robot Motion Skills Learning and Generalization, Advanced Engineering Informatics, Volume 62, Part B, October 2024, 102702 [Paper](https://www.sciencedirect.com/science/article/pii/S1474034624003501)
