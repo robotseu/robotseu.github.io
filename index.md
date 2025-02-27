@@ -10,6 +10,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 
 
 ## News
++ We have a paper accepted by TCSVT, congratulations to Xingshuo![2025.2]
 + We have a paper accepted by Automation in Construction, congratulations to Boyi Duan![2025.1]
 + We have two papers accepted by RAL, congratulations to Ling Tong and Tong Shi![2025.1]
 + We have a paper accepted by RAL, congratulations to Yongqiang![2024.5]
