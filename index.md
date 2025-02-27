@@ -50,6 +50,10 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
+[43]Tong Shi,  ***Kun Qian****, Yixi Fang, Yun Zhang, Hai Yu. Point-Line LIVO Using Patch-Based Gradient Optimization for Degenerate Scenes, in IEEE Robotics and Automation Letters, vol. 9, no. 11, pp. 9717-9724, 2024,[Paper](https://ieeexplore.ieee.org/document/10688407)
+
+[42]Xin Xu, Kun Qian*, Bo Zhou, Fang Fang, S2SNet: Two-stream Geometry-aware Sequence to Sequence Network for Robot Motion Skills Learning and Generalization, Advanced Engineering Informatics, Volume 62, Part B, October 2024, 102702 [Paper](https://www.sciencedirect.com/science/article/pii/S1474034624003501)
+
 [41]Yongqiang Zhao, ***Kun Qian****, Boyi Duan and Shan Luo, FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-Motor Robot Manipulation Skills, in IEEE Robotics and Automation Letters, vol. 9, no. 6, pp. 5647-5654,[Paper](https://ieeexplore.ieee.org/document/10518085)
 
 [40]Zhuoyang Zhang, ***Kun Qian****, Bo Zhou, Fang Fang, Xudong Ma, Gaze-assisted visual grounding via knowledge distillation for referred object grasping with under-specified object referring, Engineering Applications of Artificial Intelligence,  Vol.133, Part E, July 2024, 108493, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0952197624006511)
