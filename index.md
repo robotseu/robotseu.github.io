@@ -13,6 +13,7 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 + We have a paper accepted by TCSVT, congratulations to Xingshuo![2025.2]
 + We have a paper accepted by Automation in Construction, congratulations to Boyi Duan![2025.1]
 + We have two papers accepted by RAL, congratulations to Ling Tong and Tong Shi![2025.1]
++ We have two papers accepted by ADVEI, congratulations to Xin Xu![2024.10] 
 + We have a paper accepted by RAL, congratulations to Yongqiang![2024.5]
 + We have a paper accepted by EAAI, congratulations to Zhuoyang![2024.4]
 + We have a paper accepted by TGRS, congratulations to Yixin Fang![2024.2]
@@ -53,55 +54,57 @@ Kun Qian received his Ph.D degree in control theory and control engineering from
 ----
 ## Publications
 ### Journal Paper
-[46]Xingshuo Jing, ***Kun Qian****, Markus Vincze, CAGT: Sim-to-Real Depth Completion with Interactive Embedding Aggregation and Geometry Awareness for Transparent Objects, IEEE Transactions on Circuits and Systems for Video Technology, 2025[Paper](https://ieeexplore.ieee.org/document/10891843)
+[47]Xingshuo Jing, ***Kun Qian****, Markus Vincze, CAGT: Sim-to-Real Depth Completion with Interactive Embedding Aggregation and Geometry Awareness for Transparent Objects, IEEE Transactions on Circuits and Systems for Video Technology, 2025[Paper](https://ieeexplore.ieee.org/document/10891843)
 
-[45]Boyi Duan,  ***Kun Qian****, Aohua Liu, Shan Luo. Visual–tactile learning of robotic cable-in-duct installation skills, Automation in Construction, Volume 170, February 2025, 105905[Paper](https://www.sciencedirect.com/science/article/pii/S0926580524006411)
+[46]Boyi Duan,  ***Kun Qian****, Aohua Liu, Shan Luo. Visual–tactile learning of robotic cable-in-duct installation skills, Automation in Construction, Volume 170, February 2025, 105905[Paper](https://www.sciencedirect.com/science/article/pii/S0926580524006411)
 
-[44]Ling Tong,  ***Kun Qian****, Xingshuo Jing. LBSNet: Lightweight Joint Boundary Detection and Semantic Segmentation for Transparent and Reflective Objects, in IEEE Robotics and Automation Letters, vol. 10, no. 2, pp. 955-962, Feb. 2025,[Paper](https://ieeexplore.ieee.org/document/10801210)
+[45]Xin Xu, ***Kun Qian****, Bo Zhou, Fang Fang, S2SNet: Two-stream Geometry-aware Sequence to Sequence Network for Robot Motion Skills Learning and Generalization, Advanced Engineering Informatics, Volume 62, Part B, October 2024, 102702 [Paper](https://www.sciencedirect.com/science/article/pii/S1474034624003501)
 
-[43]Tong Shi,  ***Kun Qian****, Yixi Fang, Yun Zhang, Hai Yu. Point-Line LIVO Using Patch-Based Gradient Optimization for Degenerate Scenes, in IEEE Robotics and Automation Letters, vol. 9, no. 11, pp. 9717-9724, 2024,[Paper](https://ieeexplore.ieee.org/document/10688407)
+[44]Yixin Fang, ***Kun Qian****, Yun Zhang, Tong Shi, Hai Yu, Segmented Curved-Voxel Occupancy Descriptor for Dynamic-Aware LiDAR Odometry and Mapping, IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024. [Paper](https://ieeexplore.ieee.org/document/10419066)
 
-[42]Xin Xu, ***Kun Qian****, Bo Zhou, Fang Fang, S2SNet: Two-stream Geometry-aware Sequence to Sequence Network for Robot Motion Skills Learning and Generalization, Advanced Engineering Informatics, Volume 62, Part B, October 2024, 102702 [Paper](https://www.sciencedirect.com/science/article/pii/S1474034624003501)
+[43]Xingshuo Jing, ***Kun Qian****, Tudor Jianu, Shan Luo. Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images, IEEE Transactions on Instrumentation and Measurement , 2023, PP(99):1-1 DOI: 10.1109/TIM.2023.3268458. [Paper](https://ieeexplore.ieee.org/document/10106009/) 
 
-[41]Yongqiang Zhao, ***Kun Qian****, Boyi Duan and Shan Luo, FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-Motor Robot Manipulation Skills, in IEEE Robotics and Automation Letters, vol. 9, no. 6, pp. 5647-5654,[Paper](https://ieeexplore.ieee.org/document/10518085)
+[42]Jiale Ma, ***Kun Qian****, Xiaobo Zhang, Xudong Ma. Weakly Supervised Instance Segmentation of Electrical Equipment Based on RGB-T Automatic Annotation, IEEE Transactions on Instrumentation and Measurement,  v 69, n 12, p 9720-9731, December 2020. DOI:10.1109/TIM.2020.3001796. [Paper](https://ieeexplore.ieee.org/document/9115062)
 
-[40]Zhuoyang Zhang, ***Kun Qian****, Bo Zhou, Fang Fang, Xudong Ma, Gaze-assisted visual grounding via knowledge distillation for referred object grasping with under-specified object referring, Engineering Applications of Artificial Intelligence,  Vol.133, Part E, July 2024, 108493, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0952197624006511)
+[41]Zhuoyang Zhang, ***Kun Qian****, Bo Zhou, Fang Fang, Xudong Ma, Gaze-assisted visual grounding via knowledge distillation for referred object grasping with under-specified object referring, Engineering Applications of Artificial Intelligence,  Vol.133, Part E, July 2024, 108493, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0952197624006511)
 
-[39]Xin Xu, ***Kun Qian****, Bo Zhou, Fang Fang, Xudong Ma, Imitating via manipulability: Geometry-aware combined DMP with via-point and speed adaptation, Computers and Electrical Engineering, Vol.117, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0045790624001757)
+[40]***Kun Qian****, Yanhui Duan, Chaomin Luo, Yongqiang Zhao, Xingshuo Jing. Pixel-Level Domain Adaptation for Real-to-Sim Object Pose Estimation, IEEE Transactions on Cognitive and Developmental Systems, 2023, PP(99):1-1 DOI: 10.1109/TCDS.2023.3237502. [Paper](https://ieeexplore.ieee.org/abstract/document/10018456) 
 
-[38]Yixin Fang, ***Kun Qian****, Yun Zhang, Tong Shi, Hai Yu, Segmented Curved-Voxel Occupancy Descriptor for Dynamic-Aware LiDAR Odometry and Mapping, IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-16, 2024. [Paper](https://ieeexplore.ieee.org/document/10419066)
+[39]Xin Xu, ***Kun Qian****, Xingshuo Jing, Wei Song, Learning Robot Manipulation Skills from Human Demonstration Videos using Two-stream 2D/3D Residual Networks with Self-Attention. IEEE Transactions on Cognitive and Developmental Systems, 2022, DOI: 10.1109/TCDS.2022.3182877. [Paper](https://ieeexplore.ieee.org/document/9795859)
 
-[37]***Kun Qian****, Zhuoyang Zhang, Wei Song, Jianfeng Liao. GVGNet: Gaze-Directed Visual Grounding for Learning Under-Specified Object Referring Intention, IEEE Robotics and Automation Letters, 2023, 8(9):1-8, DOI: 10.1109/LRA.2023.3301294. [Paper](https://ieeexplore.ieee.org/document/10202186/) 
+[38]***Kun Qian****, Zhuoyang Zhang, Wei Song, Jianfeng Liao. GVGNet: Gaze-Directed Visual Grounding for Learning Under-Specified Object Referring Intention, IEEE Robotics and Automation Letters, 2023, 8(9):1-8, DOI: 10.1109/LRA.2023.3301294. [Paper](https://ieeexplore.ieee.org/document/10202186/) 
 
-[36]Xingshuo Jing, ***Kun Qian****, Tudor Jianu, Shan Luo. Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images, IEEE Transactions on Instrumentation and Measurement , 2023, PP(99):1-1 DOI: 10.1109/TIM.2023.3268458. [Paper](https://ieeexplore.ieee.org/document/10106009/) 
+[37]Ling Tong,  ***Kun Qian****, Xingshuo Jing. LBSNet: Lightweight Joint Boundary Detection and Semantic Segmentation for Transparent and Reflective Objects, in IEEE Robotics and Automation Letters, vol. 10, no. 2, pp. 955-962, Feb. 2025,[Paper](https://ieeexplore.ieee.org/document/10801210)
 
-[35]***Kun Qian****, Yanhui Duan, Chaomin Luo, Yongqiang Zhao, Xingshuo Jing. Pixel-Level Domain Adaptation for Real-to-Sim Object Pose Estimation, IEEE Transactions on Cognitive and Developmental Systems, 2023, PP(99):1-1 DOI: 10.1109/TCDS.2023.3237502. [Paper](https://ieeexplore.ieee.org/abstract/document/10018456) 
+[36]Tong Shi,  ***Kun Qian****, Yixi Fang, Yun Zhang, Hai Yu. Point-Line LIVO Using Patch-Based Gradient Optimization for Degenerate Scenes, in IEEE Robotics and Automation Letters, vol. 9, no. 11, pp. 9717-9724, 2024,[Paper](https://ieeexplore.ieee.org/document/10688407)
 
-[34]Yongqiang Zhao, Xingshuo Jing, ***Kun Qian****, Daniel Fernandes Gomes, Shan luo, Skill generalization of tubular object manipulation with tactile sensing and Sim2Real learning, 2022, Robotics and Autonomous Systems 160(7815):104321 DOI: 10.1016/j.robot.2022.104321. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S092188902200210X)
+[35]Yongqiang Zhao, ***Kun Qian****, Boyi Duan and Shan Luo, FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-Motor Robot Manipulation Skills, in IEEE Robotics and Automation Letters, vol. 9, no. 6, pp. 5647-5654,[Paper](https://ieeexplore.ieee.org/document/10518085)
 
-[33]Yun Zhang, Rui Liu, Bo Zhou, Hai Yu, ***Kun Qian****. Visual Loop Closure Detection with Instance Segmentation and Image Inpainting in Dynamic Scenes using Wearable Camera, IEEE Sensors Journal, 2022, DOI: 10.1109/JSEN.2022.3190999.[Paper](https://ieeexplore.ieee.org/document/9834231/)
+[34]Xin Xu, ***Kun Qian****, Bo Zhou, Fang Fang, Xudong Ma, Imitating via manipulability: Geometry-aware combined DMP with via-point and speed adaptation, Computers and Electrical Engineering, Vol.117, 2024. [Paper](https://www.sciencedirect.com/science/article/pii/S0045790624001757)
 
-[32]Xin Xu, ***Kun Qian****, Xingshuo Jing, Wei Song, Learning Robot Manipulation Skills from Human Demonstration Videos using Two-stream 2D/3D Residual Networks with Self-Attention. IEEE Transactions on Cognitive and Developmental Systems, 2022, DOI: 10.1109/TCDS.2022.3182877. [Paper](https://ieeexplore.ieee.org/document/9795859)
+[33]***Kun Qian***, Xin Xu, Huan Liu, Jishen Bai, Shan Luo, Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks, Robotics and Autonomous Systems, 2022, DOI: 10.1016/j.robot.2022.104046. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889022000185)
 
-[31]Yinghui Liu, ***Kun Qian****, Xin Xu, Bo Zhou, Fang Fang, Grasp Pose Learning from Human Demonstration with Task Constraints. Journal of Intelligent & Robotic Systems, 2022, DOI:10.1007/s10846-022-01650-z.[Paper](https://link.springer.com/article/10.1007/s10846-022-01650-z)
+[32]Xingshuo Jing, ***Kun Qian****, Xin Xu, Jishen Bai, Bo Zhou, Domain adversarial transfer for cross-domain and task-constrained grasp pose detection, Robotics and Autonomous Systems. 2021,145,103872, DOI: 10.1016/j.robot.2021.103872.[Paper](https://www.sciencedirect.com/science/article/pii/S0921889021001573)
 
-[30]***Kun Qian***, Xin Xu, Huan Liu, Jishen Bai, Shan Luo, Environment-adaptive learning from demonstration for proactive assistance in human–robot collaborative tasks, Robotics and Autonomous Systems, 2022, DOI: 10.1016/j.robot.2022.104046. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0921889022000185)
+[31]Yongqiang Zhao, Xingshuo Jing, ***Kun Qian****, Daniel Fernandes Gomes, Shan luo, Skill generalization of tubular object manipulation with tactile sensing and Sim2Real learning, 2022, Robotics and Autonomous Systems 160(7815):104321 DOI: 10.1016/j.robot.2022.104321. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S092188902200210X)
 
-[29]Xingshuo Jing, ***Kun Qian****, Xin Xu, Jishen Bai, Bo Zhou, Domain adversarial transfer for cross-domain and task-constrained grasp pose detection, Robotics and Autonomous Systems. 2021,145,103872, DOI: 10.1016/j.robot.2021.103872.[Paper](https://www.sciencedirect.com/science/article/pii/S0921889021001573)
+[30]***Kun Qian****, Zhaokun Yue, Jishen Bai, Hierarchical kernelized movement primitives for learning human-robot collaborative trajectories in referred object handover. Applied Intelligence, 55, 38 (2025).[Paper](https://link.springer.com/article/10.1007/s10489-024-05902-3)
 
-[28]Bo Zhou, Yi He, ***Kun Qian***, Xudong Ma, Xiaomao Li. S4-SLAM: A real-time 3D LIDAR SLAM system for ground/watersurface multi-scene outdoor applications. Autonomous Robots 45(3), DOI: 10.1007/s10514-020-09948-3.
+[29]***Kun Qian****, Wei Zhao, Kai Li, Xudong Ma, Hai Yu. Visual SLAM with BoPLW Pairs using Egocentric Stereo Camera for Wearable-assisted Substation Inspection, IEEE Sensors Journal, 2020, 20(3):1630-1641. [Code](https://github.com/robotseu/ORB_Line_SLAM),[Paper](https://ieeexplore.ieee.org/document/8868098)
 
-[27]Jiale Ma, ***Kun Qian****, Xiaobo Zhang, Xudong Ma. Weakly Supervised Instance Segmentation of Electrical Equipment Based on RGB-T Automatic Annotation, IEEE Transactions on Instrumentation and Measurement,  v 69, n 12, p 9720-9731, December 2020. DOI:10.1109/TIM.2020.3001796. [Paper](https://ieeexplore.ieee.org/document/9115062)
+[28]***Kun Qian****, Wei Zhao, Zhewen Ma, Jiale Ma, Xudong Ma, Hai Yu, Wearable-assisted localization and inspection guidance system using egocentric stereo cameras, IEEE Sensors Journal, 2018, 18(2):809-821. [Paper](https://ieeexplore.ieee.org/document/8107537/)
 
-[26]***Kun Qian****, Huan Liu, Valls Miro Jaime, Xingshuo Jing, Bo Zhou. Hierarchical and Parameterized Learning of Pick-and-Place Manipulation from Under-specified Human Demonstrations, Advanced Robotics, v 34, n 13, p 858-872, July 2, 2020, DOI:10.1080/01691864.2020.1778523. [Paper](https://www.tandfonline.com/eprint/TQFJB7RIZNBTJETJBRHF/full?target=10.1080/01691864.2020.1778523)
+[27]Yun Zhang, Rui Liu, Bo Zhou, Hai Yu, ***Kun Qian****. Visual Loop Closure Detection with Instance Segmentation and Image Inpainting in Dynamic Scenes using Wearable Camera, IEEE Sensors Journal, 2022, DOI: 10.1109/JSEN.2022.3190999.[Paper](https://ieeexplore.ieee.org/document/9834231/)
 
-[25]***Kun Qian****, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Jing Xia, Xudong Ma. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, v 100, n 1, p 145-163, October 1, 2020, DOI: 10.1007/s10846-020-01202-3. [Paper](http://link.springer.com/article/10.1007/s10846-020-01202-3)
+[26]***Kun Qian****, Xingshuo Jing, Yanhui Duan, Bo Zhou, Fang Fang, Jing Xia, Xudong Ma. Grasp Pose Detection with Affordance-based Task Constraint Learning in Single-view Point Clouds, Journal of Intelligent & Robotic Systems, v 100, n 1, p 145-163, October 1, 2020, DOI: 10.1007/s10846-020-01202-3. [Paper](http://link.springer.com/article/10.1007/s10846-020-01202-3)
 
-[24]***Kun Qian****, Wei Zhao, Kai Li, Xudong Ma, Hai Yu. Visual SLAM with BoPLW Pairs using Egocentric Stereo Camera for Wearable-assisted Substation Inspection, IEEE Sensors Journal, 2020, 20(3):1630-1641. [Code](https://github.com/robotseu/ORB_Line_SLAM),[Paper](https://ieeexplore.ieee.org/document/8868098)
+[25]Yinghui Liu, ***Kun Qian****, Xin Xu, Bo Zhou, Fang Fang, Grasp Pose Learning from Human Demonstration with Task Constraints. Journal of Intelligent & Robotic Systems, 2022, DOI:10.1007/s10846-022-01650-z.[Paper](https://link.springer.com/article/10.1007/s10846-022-01650-z)
 
-[23]刘环, ***钱堃****, 桂博兴, 马旭东, 基于多演示动作基元参数化学习的机器人任务泛化，机器人, 2019, 41(5):574-582.
+[24]Bo Zhou, Yi He, ***Kun Qian***, Xudong Ma, Xiaomao Li. S4-SLAM: A real-time 3D LIDAR SLAM system for ground/watersurface multi-scene outdoor applications. Autonomous Robots 45(3), DOI: 10.1007/s10514-020-09948-3.
 
-[22]***Kun Qian****, Wei Zhao, Zhewen Ma, Jiale Ma, Xudong Ma, Hai Yu, Wearable-assisted localization and inspection guidance system using egocentric stereo cameras, IEEE Sensors Journal, 2018, 18(2):809-821. [Paper](https://ieeexplore.ieee.org/document/8107537/)
+[23]***Kun Qian****, Huan Liu, Valls Miro Jaime, Xingshuo Jing, Bo Zhou. Hierarchical and Parameterized Learning of Pick-and-Place Manipulation from Under-specified Human Demonstrations, Advanced Robotics, v 34, n 13, p 858-872, July 2, 2020, DOI:10.1080/01691864.2020.1778523. [Paper](https://www.tandfonline.com/eprint/TQFJB7RIZNBTJETJBRHF/full?target=10.1080/01691864.2020.1778523)
+
+[22]刘环, ***钱堃****, 桂博兴, 马旭东, 基于多演示动作基元参数化学习的机器人任务泛化，机器人, 2019, 41(5):574-582.
 
 [21]夏晶, ***钱堃****, 马旭东, 刘环, 基于级联卷积神经网络的机器人平面抓取位姿快速检测, 2018,40(6): 794-802.
 
